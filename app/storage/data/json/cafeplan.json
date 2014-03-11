@@ -1,0 +1,4420 @@
+{
+  "cafes":  [
+        {
+            "geo": [
+                "51.0402751",
+                "3.7256063"
+            ],
+            "id": "3149",
+            "type": "location",
+            "classref": 0,
+            "title": "244",
+            "uri": "/o/location/P%3F+total/3149",
+            "content": "Bruin studenten- en nachtcaf&eacute;, blijft het langste open in de overpoortstraat",
+            "nameid": "P? total"
+        },
+        {
+            "geo": [
+                "51.0643484",
+                "3.7329826"
+            ],
+            "id": "3128",
+            "type": "location",
+            "classref": 0,
+            "title": "51",
+            "uri": "/o/location/Maritime/3128",
+            "content": "Volks schipperscaf&eacute;, al 20 jaar bij guy, smirnoff en tries\n",
+            "nameid": "Maritime"
+        },
+        {
+            "geo": [
+                "51.0487539",
+                "3.7271038"
+            ],
+            "id": "3127",
+            "type": "location",
+            "classref": 0,
+            "title": "206",
+            "uri": "/o/location/Marimain/3127",
+            "content": "Caf&eacute; naast de minardschouwburg, voor stamgasten en jonge gasten",
+            "nameid": "Marimain"
+        },
+        {
+            "geo": [
+                "51.0540061",
+                "3.7237181"
+            ],
+            "id": "3126",
+            "type": "location",
+            "classref": 0,
+            "title": "133",
+            "uri": "/o/location/Manteca/3126",
+            "content": "Jazzcaf&eacute; voor een babbel met een ca?pirinha",
+            "nameid": "Manteca"
+        },
+        {
+            "geo": [
+                "51.0492642",
+                "3.7256303"
+            ],
+            "id": "3125",
+            "type": "location",
+            "classref": 0,
+            "title": "203",
+            "uri": "/o/location/Make+up/3125",
+            "content": "Trendy nachtclub in een prachtige middeleeuwse kelder waar iedereen het juiste kapsel heeft",
+            "nameid": "Make up"
+        },
+        {
+            "geo": [
+                "51.0581115",
+                "3.7268799"
+            ],
+            "id": "3124",
+            "type": "location",
+            "classref": 0,
+            "title": "91",
+            "uri": "/o/location/Magazijn/3124",
+            "content": "Legendarisch eetcaf&eacute;\n",
+            "nameid": "Magazijn"
+        },
+        {
+            "geo": [
+                "51.0546305",
+                "3.725681"
+            ],
+            "id": "3123",
+            "type": "location",
+            "classref": 0,
+            "title": "142",
+            "uri": "/o/location/Lucifer+%2F+huis+tartuffe/3123",
+            "content": "Dag- en nachtrestaurant lucifer verandert elke maand in een caf&eacute; chantant ?huis tartuffe?",
+            "nameid": "Lucifer / huis tartuffe"
+        },
+        {
+            "geo": [
+                "51.0590814",
+                "3.7268491"
+            ],
+            "id": "3122",
+            "type": "location",
+            "classref": 0,
+            "title": "89",
+            "uri": "/o/location/Los+perros+calientes/3122",
+            "content": "Praat- en muziekcaf&eacute; met livingsfeer en zithoeken\n",
+            "nameid": "Los perros calientes"
+        },
+        {
+            "geo": [
+                "51.0530063",
+                "3.7238458"
+            ],
+            "id": "3121",
+            "type": "location",
+            "classref": 0,
+            "title": "135",
+            "uri": "/o/location/Limonada/3121",
+            "content": "Chill-out cocktailbar met vintage jaren '70 interieur\n",
+            "nameid": "Limonada"
+        },
+        {
+            "geo": [
+                "51.0562816",
+                "3.7262755"
+            ],
+            "id": "3119",
+            "type": "location",
+            "classref": 0,
+            "title": "161",
+            "uri": "/o/location/Le+bal+infernal/3119",
+            "content": "Bruin praatcaf&eacute;, 's weekends danscaf&eacute;\n",
+            "nameid": "Le bal infernal"
+        },
+        {
+            "geo": [
+                "51.0567896",
+                "3.727721"
+            ],
+            "id": "3118",
+            "type": "location",
+            "classref": 0,
+            "title": "159",
+            "uri": "/o/location/L%3Fheure+bleue/3118",
+            "content": "Muziek- en nachtcaf&eacute; al 14 jaar chez talski, een tweede living voor veel vaste klanten",
+            "nameid": "L?heure bleue"
+        },
+        {
+            "geo": [
+                "51.05681",
+                "3.7279477"
+            ],
+            "id": "3117",
+            "type": "location",
+            "classref": 0,
+            "title": "160",
+            "uri": "/o/location/L%3Fenfant+terrible/3117",
+            "content": "Modern praat-, en biercaf&eacute;\n",
+            "nameid": "L?enfant terrible"
+        },
+        {
+            "geo": [
+                "51.0396363",
+                "3.7257182"
+            ],
+            "id": "3116",
+            "type": "location",
+            "classref": 0,
+            "title": "266",
+            "uri": "/o/location/Latin+quarter/3116",
+            "content": "Relax cocktailbar voor studenten\n",
+            "nameid": "Latin quarter"
+        },
+        {
+            "geo": [
+                "51.0392003",
+                "3.7259149"
+            ],
+            "id": "3115",
+            "type": "location",
+            "classref": 0,
+            "title": "274",
+            "uri": "/o/location/Lalaland/3115",
+            "content": "Danscaf&eacute; met bijhorende beats\n\n",
+            "nameid": "Lalaland"
+        },
+        {
+            "geo": [
+                "51.0553983",
+                "3.7212029"
+            ],
+            "id": "3120",
+            "type": "location",
+            "classref": 0,
+            "title": "105",
+            "uri": "/o/location/Lestarie/3120",
+            "content": "Klein kelder-, muziek- en eetcaf&eacute;\n",
+            "nameid": "Lestarie"
+        },
+        {
+            "geo": [
+                "51.0387356",
+                "3.7309256"
+            ],
+            "id": "3113",
+            "type": "location",
+            "classref": 0,
+            "title": "288",
+            "uri": "/o/location/La+comedie/3113",
+            "content": "Buurtcaf&eacute; met een egyptische inslag",
+            "nameid": "La comedie"
+        },
+        {
+            "geo": [
+                "51.0656388",
+                "3.7268219"
+            ],
+            "id": "3112",
+            "type": "location",
+            "classref": 0,
+            "title": "45",
+            "uri": "/o/location/Kurtlar+vadisi/3112",
+            "content": "Turks volks buurtcaf&eacute;\n",
+            "nameid": "Kurtlar vadisi"
+        },
+        {
+            "geo": [
+                "51.0670167",
+                "3.7386556"
+            ],
+            "id": "3129",
+            "type": "location",
+            "classref": 0,
+            "title": "189",
+            "uri": "/o/location/Mercury/3129",
+            "content": "Baancaf&eacute; voor volk van de naburige bedrijven en buurtbewoners",
+            "nameid": "Mercury"
+        },
+        {
+            "geo": [
+                "51.0611226",
+                "3.7182019"
+            ],
+            "id": "3130",
+            "type": "location",
+            "classref": 0,
+            "title": "37",
+            "uri": "/o/location/Mery/3130",
+            "content": "Volkscaf&eacute; met bulgaarse uitbaters\n",
+            "nameid": "Mery"
+        },
+        {
+            "geo": [
+                "51.049755",
+                "3.731834"
+            ],
+            "id": "3131",
+            "type": "location",
+            "classref": 0,
+            "title": "298",
+            "uri": "/o/location/Midem/3131",
+            "content": "Volks- en kaartcaf&eacute; met al 24 jaar echte toogbazen michel en tina",
+            "nameid": "Midem"
+        },
+        {
+            "geo": [
+                "51.0406022",
+                "3.7265347"
+            ],
+            "id": "3148",
+            "type": "location",
+            "classref": 0,
+            "title": "239",
+            "uri": "/o/location/Pattapoef/3148",
+            "content": "Bruin praat- en muziekcaf&eacute;\n",
+            "nameid": "Pattapoef"
+        },
+        {
+            "geo": [
+                "51.0500736",
+                "3.7195948"
+            ],
+            "id": "3147",
+            "type": "location",
+            "classref": 0,
+            "title": "16",
+            "uri": "/o/location/Patrick+foley%27s/3147",
+            "content": "Grote ierse pub / restaurant\n",
+            "nameid": "Patrick foley's"
+        },
+        {
+            "geo": [
+                "51.0446175",
+                "3.7264815"
+            ],
+            "id": "3146",
+            "type": "location",
+            "classref": 0,
+            "title": "225",
+            "uri": "/o/location/Parlement/3146",
+            "content": "Stijlvol groot muziekcaf&eacute; met gigantisch evenemententerras voor zomer &eacute;n winter en met 3 barbeques",
+            "nameid": "Parlement"
+        },
+        {
+            "geo": [
+                "51.0562003",
+                "3.7295892"
+            ],
+            "id": "3145",
+            "type": "location",
+            "classref": 0,
+            "title": "177",
+            "uri": "/o/location/Parels/3145",
+            "content": "Rustig champagnesalon in een pluizig retro-interieur\n",
+            "nameid": "Parels"
+        },
+        {
+            "geo": [
+                "51.0486423",
+                "3.7217498"
+            ],
+            "id": "3144",
+            "type": "location",
+            "classref": 0,
+            "title": "201",
+            "uri": "/o/location/Pano+%26+vino+caf%83/3144",
+            "content": "Mix van studenten- en ambtenarencaf&eacute; met drie pooltafels en kicker",
+            "nameid": "Pano & vino caf"
+        },
+        {
+            "geo": [
+                "51.0399426",
+                "3.7256371"
+            ],
+            "id": "3143",
+            "type": "location",
+            "classref": 0,
+            "title": "263",
+            "uri": "/o/location/Pallieter/3143",
+            "content": "Sinds 1977 een klassieker onder de studentencaf&eacute;s\n",
+            "nameid": "Pallieter"
+        },
+        {
+            "geo": [
+                "51.040608",
+                "3.7255002"
+            ],
+            "id": "3142",
+            "type": "location",
+            "classref": 0,
+            "title": "257",
+            "uri": "/o/location/Overpoort+bowl/3142",
+            "content": "Dag- en laatavondbowling, met boven 7 pooltafels en zetels\n",
+            "nameid": "Overpoort bowl"
+        },
+        {
+            "geo": [
+                "51.0392979",
+                "3.7258599"
+            ],
+            "id": "3141",
+            "type": "location",
+            "classref": 0,
+            "title": "272",
+            "uri": "/o/location/One+o+two/3141",
+            "content": "Studentencaf&eacute;",
+            "nameid": "One o two"
+        },
+        {
+            "geo": [
+                "51.050556",
+                "3.7101346"
+            ],
+            "id": "3140",
+            "type": "location",
+            "classref": 0,
+            "title": "8",
+            "uri": "/o/location/Napoleon/3140",
+            "content": "Groot eet- en praatcaf&eacute; met zomerterras achteraan",
+            "nameid": "Napoleon"
+        },
+        {
+            "geo": [
+                "51.0385682",
+                "3.7292991"
+            ],
+            "id": "3139",
+            "type": "location",
+            "classref": 0,
+            "title": "250",
+            "uri": "/o/location/Music+campus/3139",
+            "content": "Donkere karaokebar op de eerste verdieping, voor studenten en nachtbeesten",
+            "nameid": "Music campus"
+        },
+        {
+            "geo": [
+                "51.060988",
+                "3.727391"
+            ],
+            "id": "3138",
+            "type": "location",
+            "classref": 0,
+            "title": "61",
+            "uri": "/o/location/Multatuli/3138",
+            "content": "Deftig praat- en eetcaf&eacute; met tuinterras en zomerterras aan het water",
+            "nameid": "Multatuli"
+        },
+        {
+            "geo": [
+                "51.0552812",
+                "3.7236222"
+            ],
+            "id": "3137",
+            "type": "location",
+            "classref": 0,
+            "title": "149",
+            "uri": "/o/location/Mosquito+coast/3137",
+            "content": "Reiscaf&eacute; en verzamelpunt voor trekkers en wegdromers\n",
+            "nameid": "Mosquito coast"
+        },
+        {
+            "geo": [
+                "51.0466185",
+                "3.7419829"
+            ],
+            "id": "3136",
+            "type": "location",
+            "classref": 0,
+            "title": "313",
+            "uri": "/o/location/Monty/3136",
+            "content": "Volkscaf&eacute; met tapbiljart\n",
+            "nameid": "Monty"
+        },
+        {
+            "geo": [
+                "51.0478718",
+                "3.7272442"
+            ],
+            "id": "3135",
+            "type": "location",
+            "classref": 0,
+            "title": "209",
+            "uri": "/o/location/Montuno%27s/3135",
+            "content": "Trendy bar op zijn new yorks\n",
+            "nameid": "Montuno's"
+        },
+        {
+            "geo": [
+                "51.064729",
+                "3.717349"
+            ],
+            "id": "3134",
+            "type": "location",
+            "classref": 0,
+            "title": "39",
+            "uri": "/o/location/Minus+one/3134",
+            "content": "Polyvalente fuifzaal dat wordt beheerd door de jeugddienst van gent, naast het nieuwe justitiepaleis",
+            "nameid": "Minus one"
+        },
+        {
+            "geo": [
+                "51.058992",
+                "3.7267364"
+            ],
+            "id": "3133",
+            "type": "location",
+            "classref": 0,
+            "title": "88",
+            "uri": "/o/location/Minor+swing/3133",
+            "content": "Gezellig bruin jazzcaf&eacute; met goeie wijn en whisky\n",
+            "nameid": "Minor swing"
+        },
+        {
+            "geo": [
+                "51.0504936",
+                "3.7212458"
+            ],
+            "id": "3132",
+            "type": "location",
+            "classref": 0,
+            "title": "21",
+            "uri": "/o/location/Midi/3132",
+            "content": "Brasserie - praatcaf&eacute;\n",
+            "nameid": "Midi"
+        },
+        {
+            "geo": [
+                "51.0439077",
+                "3.7254861"
+            ],
+            "id": "3111",
+            "type": "location",
+            "classref": 0,
+            "title": "227",
+            "uri": "/o/location/Krawietelke/3111",
+            "content": "Alternatief en bruin studentencaf&eacute; met pooltafel op de bovenverdieping",
+            "nameid": "Krawietelke"
+        },
+        {
+            "geo": [
+                "51.0439252",
+                "3.7260528"
+            ],
+            "id": "3110",
+            "type": "location",
+            "classref": 0,
+            "title": "229",
+            "uri": "/o/location/Kraaienest/3110",
+            "content": "Studentencaf&eacute; met kickertafel en elektronische darts\n",
+            "nameid": "Kraaienest"
+        },
+        {
+            "geo": [
+                "51.052846",
+                "3.7093485"
+            ],
+            "id": "3109",
+            "type": "location",
+            "classref": 0,
+            "title": "7",
+            "uri": "/o/location/Koepuur/3109",
+            "content": "Studentencaf&eacute; bij michel en v?ronique voor zowel studenten van het boerenkot en het kta als voor vaste stamgasten",
+            "nameid": "Koepuur"
+        },
+        {
+            "geo": [
+                "51.0501863",
+                "3.7163351"
+            ],
+            "id": "3088",
+            "type": "location",
+            "classref": 0,
+            "title": "12",
+            "uri": "/o/location/Het+zwarte+gat/3088",
+            "content": "Alternatief studentencaf&eacute; met veel gezelschapsspellen\n",
+            "nameid": "Het zwarte gat"
+        },
+        {
+            "geo": [
+                "51.0569123",
+                "3.7264145"
+            ],
+            "id": "3087",
+            "type": "location",
+            "classref": 0,
+            "title": "157",
+            "uri": "/o/location/Het+vrijdagsgevoel/3087",
+            "content": "Moderne brasserie - eetcaf&eacute; met veel lichtinval en frivole luchters",
+            "nameid": "Het vrijdagsgevoel"
+        },
+        {
+            "geo": [
+                "51.0594011",
+                "3.7113907"
+            ],
+            "id": "3086",
+            "type": "location",
+            "classref": 0,
+            "title": "32",
+            "uri": "/o/location/Het+vonnis/3086",
+            "content": "Volkscaf&eacute; met internationale inslag en afrikaanse caf&eacute;baas",
+            "nameid": "Het vonnis"
+        },
+        {
+            "geo": [
+                "51.0571608",
+                "3.730827"
+            ],
+            "id": "3085",
+            "type": "location",
+            "classref": 0,
+            "title": "179",
+            "uri": "/o/location/Het+verdronken+land/3085",
+            "content": "Eet- en praatcaf&eacute;\n",
+            "nameid": "Het verdronken land"
+        },
+        {
+            "geo": [
+                "51.0493892",
+                "3.7333883"
+            ],
+            "id": "3084",
+            "type": "location",
+            "classref": 0,
+            "title": "301",
+            "uri": "/o/location/Het+trappistenhuis/3084",
+            "content": "Bruin praat- en biercaf&eacute; met een bierkenner als baas\n",
+            "nameid": "Het trappistenhuis"
+        },
+        {
+            "geo": [
+                "51.0555539",
+                "3.721421"
+            ],
+            "id": "3083",
+            "type": "location",
+            "classref": 0,
+            "title": "104",
+            "uri": "/o/location/Het+spijker/3083",
+            "content": "Bruin muziek- en praatcaf&eacute; met jonge klandizie\n",
+            "nameid": "Het spijker"
+        },
+        {
+            "geo": [
+                "51.0587857",
+                "3.7245423"
+            ],
+            "id": "3082",
+            "type": "location",
+            "classref": 0,
+            "title": "83",
+            "uri": "/o/location/Het+oeverloze+eiland/3082",
+            "content": "Stijlvol aperitief- en digestiefcaf&eacute; in koloniale stijl\n",
+            "nameid": "Het oeverloze eiland"
+        },
+        {
+            "geo": [
+                "51.0542356",
+                "3.7225596"
+            ],
+            "id": "3081",
+            "type": "location",
+            "classref": 0,
+            "title": "123",
+            "uri": "/o/location/Het+kelderke/3081",
+            "content": "Keldercaf&eacute; onder de dic?, is apart te huur voor kleine feesten",
+            "nameid": "Het kelderke"
+        },
+        {
+            "geo": [
+                "51.0529141",
+                "3.7384598"
+            ],
+            "id": "3080",
+            "type": "location",
+            "classref": 0,
+            "title": "318",
+            "uri": "/o/location/Het+gouden+hoofd/3080",
+            "content": "Bruin stamcaf&eacute; voor buurtbewoners en artiesten\n",
+            "nameid": "Het gouden hoofd"
+        },
+        {
+            "geo": [
+                "51.0384097",
+                "3.7263151"
+            ],
+            "id": "3079",
+            "type": "location",
+            "classref": 0,
+            "title": "278",
+            "uri": "/o/location/Havana+club/3079",
+            "content": "Ambiancecaf&eacute; dat verbouwd wordt en binnenkort terug opengaat",
+            "nameid": "Havana club"
+        },
+        {
+            "geo": [
+                "51.0617007",
+                "3.7269801"
+            ],
+            "id": "3078",
+            "type": "location",
+            "classref": 0,
+            "title": "63",
+            "uri": "/o/location/Hatice/3078",
+            "content": "Typisch turks praat- en kaartcaf&eacute;",
+            "nameid": "Hatice"
+        },
+        {
+            "geo": [
+                "51.0480743",
+                "3.7282672"
+            ],
+            "id": "3077",
+            "type": "location",
+            "classref": 0,
+            "title": "211",
+            "uri": "/o/location/Hasta+ma%84ana/3077",
+            "content": "Spaanse cantina van de pol? pol?-stal\n",
+            "nameid": "Hasta maana"
+        },
+        {
+            "geo": [
+                "51.0498308",
+                "3.7225529"
+            ],
+            "id": "3076",
+            "type": "location",
+            "classref": 0,
+            "title": "202",
+            "uri": "/o/location/Handelsbeurs/3076",
+            "content": "Prachtige concertzaal in een historisch gebouw met grote bar, enkel open tijdens concerten",
+            "nameid": "Handelsbeurs"
+        },
+        {
+            "geo": [
+                "51.0434303",
+                "3.7362203"
+            ],
+            "id": "3075",
+            "type": "location",
+            "classref": 0,
+            "title": "309",
+            "uri": "/o/location/Groove/3075",
+            "content": "Cocktail - champagne - nachtbar voor jonge dertigers & veertigers",
+            "nameid": "Groove"
+        },
+        {
+            "geo": [
+                "51.047978",
+                "3.7280227"
+            ],
+            "id": "3074",
+            "type": "location",
+            "classref": 0,
+            "title": "212",
+            "uri": "/o/location/Gringo-bar/3074",
+            "content": "\n",
+            "nameid": "Gringo-bar"
+        },
+        {
+            "geo": [
+                "51.0503884",
+                "3.7225945"
+            ],
+            "id": "3073",
+            "type": "location",
+            "classref": 0,
+            "title": "20",
+            "uri": "/o/location/Grand+caf%83+leroy/3073",
+            "content": "Brasserie - praatcaf&eacute; in art decostijl\n",
+            "nameid": "Grand caf leroy"
+        },
+        {
+            "geo": [
+                "51.0409483",
+                "3.7213361"
+            ],
+            "id": "3072",
+            "type": "location",
+            "classref": 0,
+            "title": "195",
+            "uri": "/o/location/Grade/3072",
+            "content": "Stijlvolle bar bij restaurant, met zonneterras\n",
+            "nameid": "Grade"
+        },
+        {
+            "geo": [
+                "51.065056",
+                "3.7265814"
+            ],
+            "id": "3089",
+            "type": "location",
+            "classref": 0,
+            "title": "47",
+            "uri": "/o/location/Hisar/3089",
+            "content": "Turks buurtcaf&eacute;\n",
+            "nameid": "Hisar"
+        },
+        {
+            "geo": [
+                "51.0537249",
+                "3.7379768"
+            ],
+            "id": "3090",
+            "type": "location",
+            "classref": 0,
+            "title": "319",
+            "uri": "/o/location/Hoekske/3090",
+            "content": "Buurtcaf&eacute; voor een gemengd internationaal publiek, zowel belgen als turken als afrikanen",
+            "nameid": "Hoekske"
+        },
+        {
+            "geo": [
+                "51.0442473",
+                "3.7255002"
+            ],
+            "id": "3091",
+            "type": "location",
+            "classref": 0,
+            "title": "226",
+            "uri": "/o/location/Hof+van+beroep/3091",
+            "content": "Fakbar van het vlaams rechtsgenootschap door en voor de rechtenstudenten, fuifzaal op de eerste verdieping",
+            "nameid": "Hof van beroep"
+        },
+        {
+            "geo": [
+                "51.055647",
+                "3.7285527"
+            ],
+            "id": "3108",
+            "type": "location",
+            "classref": 0,
+            "title": "176",
+            "uri": "/o/location/Kinky+star/3108",
+            "content": "Alternatief muziek- en nachtcaf&eacute;, berucht voor de irish coffees",
+            "nameid": "Kinky star"
+        },
+        {
+            "geo": [
+                "51.0554939",
+                "3.7278079"
+            ],
+            "id": "3107",
+            "type": "location",
+            "classref": 0,
+            "title": "168",
+            "uri": "/o/location/King+street/3107",
+            "content": "Al 34 jaar een kleine nachtbar in een donker jaren '70 disco interieur",
+            "nameid": "King street"
+        },
+        {
+            "geo": [
+                "51.0628578",
+                "3.7267331"
+            ],
+            "id": "3106",
+            "type": "location",
+            "classref": 0,
+            "title": "57",
+            "uri": "/o/location/Kenan%3Fin+yeri/3106",
+            "content": "Turks jongerencaf&eacute;\n",
+            "nameid": "Kenan?in yeri"
+        },
+        {
+            "geo": [
+                "51.0645158",
+                "3.7291015"
+            ],
+            "id": "3105",
+            "type": "location",
+            "classref": 0,
+            "title": "49",
+            "uri": "/o/location/Kardam/3105",
+            "content": "Bulgaars praatcaf&eacute; met pooltafel",
+            "nameid": "Kardam"
+        },
+        {
+            "geo": [
+                "51.0463681",
+                "3.7220936"
+            ],
+            "id": "3104",
+            "type": "location",
+            "classref": 0,
+            "title": "220",
+            "uri": "/o/location/Kana+karam/3104",
+            "content": "Rustig praat- en speelcaf&eacute; bij caf&eacute;baas kalender, elke maandag quiz",
+            "nameid": "Kana karam"
+        },
+        {
+            "geo": [
+                "51.0548176",
+                "3.7252211"
+            ],
+            "id": "3103",
+            "type": "location",
+            "classref": 0,
+            "title": "145",
+            "uri": "/o/location/Kaffee+plansjee/3103",
+            "content": "Populair fuif- en swingcaf&eacute;\n",
+            "nameid": "Kaffee plansjee"
+        },
+        {
+            "geo": [
+                "51.0530365",
+                "3.7390017"
+            ],
+            "id": "3102",
+            "type": "location",
+            "classref": 0,
+            "title": "316",
+            "uri": "/o/location/Kafe+%82i%82ek/3102",
+            "content": "Turks praat-, kaart-, en okeycaf&eacute;\n",
+            "nameid": "Kafe iek"
+        },
+        {
+            "geo": [
+                "51.0574199",
+                "3.7253647"
+            ],
+            "id": "3101",
+            "type": "location",
+            "classref": 0,
+            "title": "95",
+            "uri": "/o/location/K+27/3101",
+            "content": "Trendy jeugdcaf&eacute;\n",
+            "nameid": "K 27"
+        },
+        {
+            "geo": [
+                "51.0557849",
+                "3.7284124"
+            ],
+            "id": "3100",
+            "type": "location",
+            "classref": 0,
+            "title": "175",
+            "uri": "/o/location/Jos/3100",
+            "content": "Rustige bruine bar voor het iets oudere jong geweld, met een rustig salon op de eerste verdieping",
+            "nameid": "Jos"
+        },
+        {
+            "geo": [
+                "51.0574198",
+                "3.7253837"
+            ],
+            "id": "3099",
+            "type": "location",
+            "classref": 0,
+            "title": "94",
+            "uri": "/o/location/Jodi%27s/3099",
+            "content": "Muziekcaf&eacute; dat druk bezocht wordt door de jeugd en door motorfreaks",
+            "nameid": "Jodi's"
+        },
+        {
+            "geo": [
+                "51.0499958",
+                "3.7171458"
+            ],
+            "id": "3098",
+            "type": "location",
+            "classref": 0,
+            "title": "14",
+            "uri": "/o/location/Jan+van+gent/3098",
+            "content": "Brasserie-praatcaf&eacute; met pooltafel\n",
+            "nameid": "Jan van gent"
+        },
+        {
+            "geo": [
+                "51.0633915",
+                "3.7286597"
+            ],
+            "id": "3097",
+            "type": "location",
+            "classref": 0,
+            "title": "55",
+            "uri": "/o/location/Istanbul+2000/3097",
+            "content": "Turks kaart- en okeycaf&eacute; (turkse versie van rummikub)\n",
+            "nameid": "Istanbul 2000"
+        },
+        {
+            "geo": [
+                "51.0571734",
+                "3.7306919"
+            ],
+            "id": "3096",
+            "type": "location",
+            "classref": 0,
+            "title": "178",
+            "uri": "/o/location/Intermezzo/3096",
+            "content": "Eetcaf&eacute; met open haard en terras\n",
+            "nameid": "Intermezzo"
+        },
+        {
+            "geo": [
+                "51.0541774",
+                "3.7228947"
+            ],
+            "id": "3095",
+            "type": "location",
+            "classref": 0,
+            "title": "125",
+            "uri": "/o/location/Hurricane%27s/3095",
+            "content": "Danscaf&eacute; en cocktail-lounge met druk bezette pooltafel en kicker",
+            "nameid": "Hurricane's"
+        },
+        {
+            "geo": [
+                "51.0545159",
+                "3.7164932"
+            ],
+            "id": "3094",
+            "type": "location",
+            "classref": 0,
+            "title": "30",
+            "uri": "/o/location/Hotsy+totsy/3094",
+            "content": "Praatcaf&eacute; met een roemrijk verleden en prachtig interieur ",
+            "nameid": "Hotsy totsy"
+        },
+        {
+            "geo": [
+                "51.0563414",
+                "3.7223731"
+            ],
+            "id": "3093",
+            "type": "location",
+            "classref": 0,
+            "title": "101",
+            "uri": "/o/location/Hot+club+de+gand/3093",
+            "content": "Goed verstopt jazzcaf&eacute; met binnenterras\n",
+            "nameid": "Hot club de gand"
+        },
+        {
+            "geo": [
+                "51.0411651",
+                "3.7294726"
+            ],
+            "id": "3092",
+            "type": "location",
+            "classref": 0,
+            "title": "283",
+            "uri": "/o/location/Hollywood/3092",
+            "content": "Cocktailbar naast kinepolis met meer dan 200 verschillende cocktails",
+            "nameid": "Hollywood"
+        },
+        {
+            "geo": [
+                "51.0553734",
+                "3.721641"
+            ],
+            "id": "3071",
+            "type": "location",
+            "classref": 0,
+            "title": "112",
+            "uri": "/o/location/Godot/3071",
+            "content": "Stijlvol praat- en eetcaf&eacute; in een strak interieur, voor aperitief en ontmoetingen",
+            "nameid": "Godot"
+        },
+        {
+            "geo": [
+                "51.0388823",
+                "3.7313141"
+            ],
+            "id": "3228",
+            "type": "location",
+            "classref": 0,
+            "title": "289",
+            "uri": "/o/location/Zum+zum+%27t+parkske/3228",
+            "content": "Buurtcaf&eacute; met volkse mentaliteit en dwergpapegaai coco\n",
+            "nameid": "Zum zum 't parkske"
+        },
+        {
+            "geo": [
+                "51.0563844",
+                "3.7263614"
+            ],
+            "id": "3207",
+            "type": "location",
+            "classref": 0,
+            "title": "166",
+            "uri": "/o/location/Trollekelder/3207",
+            "content": "Bruin biercaf&eacute; in 15de-eeuws interieur voor een rustige en intieme babbel",
+            "nameid": "Trollekelder"
+        },
+        {
+            "geo": [
+                "51.0562813",
+                "3.7271842"
+            ],
+            "id": "3206",
+            "type": "location",
+            "classref": 0,
+            "title": "165",
+            "uri": "/o/location/Trefpunt/3206",
+            "content": "Muziek- en theatercaf&eacute; uitgebaat door vzw trefpunt\n",
+            "nameid": "Trefpunt"
+        },
+        {
+            "geo": [
+                "51.0559594",
+                "3.7283433"
+            ],
+            "id": "3205",
+            "type": "location",
+            "classref": 0,
+            "title": "171",
+            "uri": "/o/location/Trashiq/3205",
+            "content": "Alternatief nacht- en rockcaf&eacute;\n",
+            "nameid": "Trashiq"
+        },
+        {
+            "geo": [
+                "51.048054",
+                "3.7340782"
+            ],
+            "id": "3204",
+            "type": "location",
+            "classref": 0,
+            "title": "307",
+            "uri": "/o/location/Tonneke/3204",
+            "content": "Bruin gezellig muziekcaf&eacute;\n",
+            "nameid": "Tonneke"
+        },
+        {
+            "geo": [
+                "51.0549129",
+                "3.7208552"
+            ],
+            "id": "3203",
+            "type": "location",
+            "classref": 0,
+            "title": "111",
+            "uri": "/o/location/Tolhuisje/3203",
+            "content": "Smalste caf&eacute; van gent\n",
+            "nameid": "Tolhuisje"
+        },
+        {
+            "geo": [
+                "51.0639031",
+                "3.7289808"
+            ],
+            "id": "3202",
+            "type": "location",
+            "classref": 0,
+            "title": "54",
+            "uri": "/o/location/Titanic/3202",
+            "content": "Volkscaf&eacute; voor schippers, buurtbewoners en meeuwen",
+            "nameid": "Titanic"
+        },
+        {
+            "geo": [
+                "51.0678307",
+                "3.7290914"
+            ],
+            "id": "3201",
+            "type": "location",
+            "classref": 0,
+            "title": "132",
+            "uri": "/o/location/Tijuana/3201",
+            "content": "Ondergrondse club met gratis entree, open op vrijdag en zaterdag",
+            "nameid": "Tijuana"
+        },
+        {
+            "geo": [
+                "51.0506167",
+                "3.7182384"
+            ],
+            "id": "3200",
+            "type": "location",
+            "classref": 0,
+            "title": "15",
+            "uri": "/o/location/The+shakespeare/3200",
+            "content": "Rustige britse pub-brasserie, al 29 jaar tappen john en jeannine hier de pinten",
+            "nameid": "The shakespeare"
+        },
+        {
+            "geo": [
+                "51.0567346",
+                "3.7213135"
+            ],
+            "id": "3199",
+            "type": "location",
+            "classref": 0,
+            "title": "73",
+            "uri": "/o/location/The+mix/3199",
+            "content": "Cocktailbar met togolese barman tony\n",
+            "nameid": "The mix"
+        },
+        {
+            "geo": [
+                "51.0533179",
+                "3.7253088"
+            ],
+            "id": "3198",
+            "type": "location",
+            "classref": 0,
+            "title": "136",
+            "uri": "/o/location/The+glengarry/3198",
+            "content": "Middeleeuws keldercaf&eacute; van whisky-kenner bob minnekeer",
+            "nameid": "The glengarry"
+        },
+        {
+            "geo": [
+                "51.0480462",
+                "3.7272478"
+            ],
+            "id": "3197",
+            "type": "location",
+            "classref": 0,
+            "title": "208",
+            "uri": "/o/location/The+cover/3197",
+            "content": "Muziek- en jongerencaf&eacute; met pooltafel en kicker, al 24 jaar met caf&eacute;baas paul",
+            "nameid": "The cover"
+        },
+        {
+            "geo": [
+                "51.0538884",
+                "3.7205204"
+            ],
+            "id": "3196",
+            "type": "location",
+            "classref": 0,
+            "title": "129",
+            "uri": "/o/location/The+celtic+towers+irish+pub/3196",
+            "content": "Irish pub met internationale keuken\n",
+            "nameid": "The celtic towers irish pub"
+        },
+        {
+            "geo": [
+                "51.0590115",
+                "3.7267054"
+            ],
+            "id": "3195",
+            "type": "location",
+            "classref": 0,
+            "title": "87",
+            "uri": "/o/location/Ter+wal/3195",
+            "content": "Buurtcaf&eacute; met tapbiljart en voetbal op twee grote flatscreen-tv's",
+            "nameid": "Ter wal"
+        },
+        {
+            "geo": [
+                "51.0387012",
+                "3.7292257"
+            ],
+            "id": "3194",
+            "type": "location",
+            "classref": 0,
+            "title": "252",
+            "uri": "/o/location/Tequila/3194",
+            "content": "Fuifcaf&eacute;, meestal gratis entree\n",
+            "nameid": "Tequila"
+        },
+        {
+            "geo": [
+                "51.061801",
+                "3.7281914"
+            ],
+            "id": "3193",
+            "type": "location",
+            "classref": 0,
+            "title": "60",
+            "uri": "/o/location/Taverne+europa/3193",
+            "content": "Bulgaars-turks nachtcaf&eacute; en feestzaal\n",
+            "nameid": "Taverne europa"
+        },
+        {
+            "geo": [
+                "51.0475661",
+                "3.7271541"
+            ],
+            "id": "3192",
+            "type": "location",
+            "classref": 0,
+            "title": "216",
+            "uri": "/o/location/Tashun/3192",
+            "content": "Chinees livingcaf&eacute; om te babbelen en te eten",
+            "nameid": "Tashun"
+        },
+        {
+            "geo": [
+                "51.0541658",
+                "3.7229617"
+            ],
+            "id": "3191",
+            "type": "location",
+            "classref": 0,
+            "title": "127",
+            "uri": "/o/location/Tar-tard/3191",
+            "content": "Groot nachtrestaurant met loungebar",
+            "nameid": "Tar-tard"
+        },
+        {
+            "geo": [
+                "51.0488222",
+                "3.7324313"
+            ],
+            "id": "3208",
+            "type": "location",
+            "classref": 0,
+            "title": "302",
+            "uri": "/o/location/Troya/3208",
+            "content": "Cocktail- en salsabar met danscursussen\n",
+            "nameid": "Troya"
+        },
+        {
+            "geo": [
+                "51.0629318",
+                "3.7283037"
+            ],
+            "id": "3209",
+            "type": "location",
+            "classref": 0,
+            "title": "56",
+            "uri": "/o/location/Turk+ocagi+gent/3209",
+            "content": "Turks cultuurcaf&eacute; - informatiecentrum",
+            "nameid": "Turk ocagi gent"
+        },
+        {
+            "geo": [
+                "51.0656483",
+                "3.7268736"
+            ],
+            "id": "3210",
+            "type": "location",
+            "classref": 0,
+            "title": "46",
+            "uri": "/o/location/Turkiyem+spor/3210",
+            "content": "Turks kaart- en okeycafe<br>",
+            "nameid": "Turkiyem spor"
+        },
+        {
+            "geo": [
+                "51.0579784",
+                "3.7237083"
+            ],
+            "id": "3227",
+            "type": "location",
+            "classref": 0,
+            "title": "77",
+            "uri": "/o/location/Zoo/3227",
+            "content": "Cocktailbar - loungebar verbonden met het restaurant de acht zaligheden",
+            "nameid": "Zoo"
+        },
+        {
+            "geo": [
+                "51.053485",
+                "3.7238516"
+            ],
+            "id": "3226",
+            "type": "location",
+            "classref": 0,
+            "title": "134",
+            "uri": "/o/location/Zodiac/3226",
+            "content": "Eigenzinnig caf&eacute; voor frisse dertigers\n",
+            "nameid": "Zodiac"
+        },
+        {
+            "geo": [
+                "51.0567346",
+                "3.7213135"
+            ],
+            "id": "3225",
+            "type": "location",
+            "classref": 0,
+            "title": "71",
+            "uri": "/o/location/Z%83non/3225",
+            "content": "Klein bruin praatcaf&eacute; met een voorliefde voor griekenland\n",
+            "nameid": "Znon"
+        },
+        {
+            "geo": [
+                "51.0525658",
+                "3.7389486"
+            ],
+            "id": "3224",
+            "type": "location",
+            "classref": 0,
+            "title": "315",
+            "uri": "/o/location/Zaffelare/3224",
+            "content": "Typisch gents volkscaf&eacute; goed voor de gezonde leute en waar caf&eacute;bazin ir&eacute;ne al 45 jaar de perfecte pinten tapt\n",
+            "nameid": "Zaffelare"
+        },
+        {
+            "geo": [
+                "51.041228",
+                "3.725969"
+            ],
+            "id": "3223",
+            "type": "location",
+            "classref": 0,
+            "title": "238",
+            "uri": "/o/location/Yucca/3223",
+            "content": "Fakbar van de economische kring\n",
+            "nameid": "Yucca"
+        },
+        {
+            "geo": [
+                "51.0631247",
+                "3.7297844"
+            ],
+            "id": "3222",
+            "type": "location",
+            "classref": 0,
+            "title": "59",
+            "uri": "/o/location/Yigit/3222",
+            "content": "Turks kaart- en praatcaf&eacute;",
+            "nameid": "Yigit"
+        },
+        {
+            "geo": [
+                "51.0595598",
+                "3.723264"
+            ],
+            "id": "3221",
+            "type": "location",
+            "classref": 0,
+            "title": "85",
+            "uri": "/o/location/White+cat/3221",
+            "content": "Unieke kelder van het Gentse nachtleven",
+            "nameid": "White cat"
+        },
+        {
+            "geo": [
+                "51.0557035",
+                "3.7220755"
+            ],
+            "id": "3220",
+            "type": "location",
+            "classref": 0,
+            "title": "99",
+            "uri": "/o/location/Waterhuis+aan+de+bierkant/3220",
+            "content": "Bruin caf&eacute; voor bierkenners en toeristen\n",
+            "nameid": "Waterhuis aan de bierkant"
+        },
+        {
+            "geo": [
+                "51.0678307",
+                "3.7290914"
+            ],
+            "id": "3219",
+            "type": "location",
+            "classref": 0,
+            "title": "41",
+            "uri": "/o/location/Vzw+kilim/3219",
+            "content": "Turks praat- en kaartcaf&eacute; - vzw\n",
+            "nameid": "Vzw kilim"
+        },
+        {
+            "geo": [
+                "51.0477406",
+                "3.7272119"
+            ],
+            "id": "3218",
+            "type": "location",
+            "classref": 0,
+            "title": "214",
+            "uri": "/o/location/Vooruit+kafee/3218",
+            "content": "Praatcaf&eacute; in art deco interieur, oorspronkelijk hart van de socialistische beweging. cultuurtempel voor theater, concerten, dans en fuiven",
+            "nameid": "Vooruit kafee"
+        },
+        {
+            "geo": [
+                "51.0605594",
+                "3.7254374"
+            ],
+            "id": "3217",
+            "type": "location",
+            "classref": 0,
+            "title": "66",
+            "uri": "/o/location/Volkshuis/3217",
+            "content": "Eigenzinnig caf&eacute; bij iris en yvan, voor artiesten, caf&eacute;filosofen en ge&eacute;nspireerde tooghangers ",
+            "nameid": "Volkshuis"
+        },
+        {
+            "geo": [
+                "51.0513865",
+                "3.7195966"
+            ],
+            "id": "3216",
+            "type": "location",
+            "classref": 0,
+            "title": "24",
+            "uri": "/o/location/Vintage/3216",
+            "content": "Stijlvolle wijnbar / restaurant\n",
+            "nameid": "Vintage"
+        },
+        {
+            "geo": [
+                "51.0373953",
+                "3.7266379"
+            ],
+            "id": "3215",
+            "type": "location",
+            "classref": 0,
+            "title": "279",
+            "uri": "/o/location/Villa+volta/3215",
+            "content": "Installatie van beeldend kunstenaar quinte ridz door velen misbegrepen als een bruin briq-?-brac praatcaf&eacute;",
+            "nameid": "Villa volta"
+        },
+        {
+            "geo": [
+                "51.0551249",
+                "3.7219478"
+            ],
+            "id": "3214",
+            "type": "location",
+            "classref": 0,
+            "title": "117",
+            "uri": "/o/location/Vijf+voor+twaalf/3214",
+            "content": "Studentencaf&eacute; overdag, in het weekend swing- en ambiancecaf&eacute;",
+            "nameid": "Vijf voor twaalf"
+        },
+        {
+            "geo": [
+                "51.0542207",
+                "3.731668"
+            ],
+            "id": "3213",
+            "type": "location",
+            "classref": 0,
+            "title": "184",
+            "uri": "/o/location/Video/3213",
+            "content": "Gekend alternatief muziekcaf&eacute; met veel schone mensen uit het nachtleven",
+            "nameid": "Video"
+        },
+        {
+            "geo": [
+                "51.0426232",
+                "3.7381257"
+            ],
+            "id": "3212",
+            "type": "location",
+            "classref": 0,
+            "title": "310",
+            "uri": "/o/location/Valentino/3212",
+            "content": "Bulgaars eetcaf&eacute;\n",
+            "nameid": "Valentino"
+        },
+        {
+            "geo": [
+                "51.0404349",
+                "3.7255726"
+            ],
+            "id": "3211",
+            "type": "location",
+            "classref": 0,
+            "title": "241",
+            "uri": "/o/location/Twieoo/3211",
+            "content": "Al meer dan 30 jaar gents feestcaf&eacute;, te huur voor fuiven \nen cantussen",
+            "nameid": "Twieoo"
+        },
+        {
+            "geo": [
+                "51.039598",
+                "3.725618"
+            ],
+            "id": "3190",
+            "type": "location",
+            "classref": 0,
+            "title": "267",
+            "uri": "/o/location/Tam+tam/3190",
+            "content": "Studentencaf&eacute; en cocktailbar met paaldanspaal voor als ge u wilt overeind houden na al die cocktails",
+            "nameid": "Tam tam"
+        },
+        {
+            "geo": [
+                "51.0533572",
+                "3.7252257"
+            ],
+            "id": "3189",
+            "type": "location",
+            "classref": 0,
+            "title": "139",
+            "uri": "/o/location/T-bar/3189",
+            "content": "Caf&eacute; op't gelijkvloers van het ntgent\n",
+            "nameid": "T-bar"
+        },
+        {
+            "geo": [
+                "51.0568609",
+                "3.7263574"
+            ],
+            "id": "3188",
+            "type": "location",
+            "classref": 0,
+            "title": "154",
+            "uri": "/o/location/Surplus/3188",
+            "content": "Homovriendelijk danscaf&eacute;\n",
+            "nameid": "Surplus"
+        },
+        {
+            "geo": [
+                "51.0393304",
+                "3.7258416"
+            ],
+            "id": "3167",
+            "type": "location",
+            "classref": 0,
+            "title": "271",
+            "uri": "/o/location/Sax/3167",
+            "content": "Studentencaf&eacute;",
+            "nameid": "Sax"
+        },
+        {
+            "geo": [
+                "51.0409105",
+                "3.7254643"
+            ],
+            "id": "3166",
+            "type": "location",
+            "classref": 0,
+            "title": "256",
+            "uri": "/o/location/Salto/3166",
+            "content": "Studentencaf&eacute;",
+            "nameid": "Salto"
+        },
+        {
+            "geo": [
+                "51.0400193",
+                "3.7256209"
+            ],
+            "id": "3165",
+            "type": "location",
+            "classref": 0,
+            "title": "261",
+            "uri": "/o/location/Salamander/3165",
+            "content": "Echt bruin studenten- en cantuscaf&eacute;, al 37 jaar dezelfde uitbaters rita en pottie",
+            "nameid": "Salamander"
+        },
+        {
+            "geo": [
+                "51.0410733",
+                "3.725445"
+            ],
+            "id": "3164",
+            "type": "location",
+            "classref": 0,
+            "title": "254",
+            "uri": "/o/location/Rumpa-cabeza/3164",
+            "content": "Rasecht bruin huiskamercaf&eacute; waar ge ook kunt eten\n",
+            "nameid": "Rumpa-cabeza"
+        },
+        {
+            "geo": [
+                "51.041918",
+                "3.7189842"
+            ],
+            "id": "3163",
+            "type": "location",
+            "classref": 0,
+            "title": "194",
+            "uri": "/o/location/Rotonde/3163",
+            "content": "Eetcaf&eacute; - fonduehuis met schitterend art-deco plafond",
+            "nameid": "Rotonde"
+        },
+        {
+            "geo": [
+                "51.0579258",
+                "3.7232945"
+            ],
+            "id": "3162",
+            "type": "location",
+            "classref": 0,
+            "title": "74",
+            "uri": "/o/location/Rococo/3162",
+            "content": "Intiem praatcaf&eacute; in huiskamerstijl bij temperamentvolle caf&eacute;bazin betty",
+            "nameid": "Rococo"
+        },
+        {
+            "geo": [
+                "51.0479437",
+                "3.7215114"
+            ],
+            "id": "3161",
+            "type": "location",
+            "classref": 0,
+            "title": "199",
+            "uri": "/o/location/Rendez-vous/3161",
+            "content": "Loungebar bij hotel ibis\n",
+            "nameid": "Rendez-vous"
+        },
+        {
+            "geo": [
+                "51.0498161",
+                "3.7218515"
+            ],
+            "id": "3160",
+            "type": "location",
+            "classref": 0,
+            "title": "18",
+            "uri": "/o/location/Ratz/3160",
+            "content": "Klein en gezellig muziekcaf&eacute; bij guido\n",
+            "nameid": "Ratz"
+        },
+        {
+            "geo": [
+                "51.0568694",
+                "3.7264448"
+            ],
+            "id": "3159",
+            "type": "location",
+            "classref": 0,
+            "title": "155",
+            "uri": "/o/location/Postiljon/3159",
+            "content": "Volkscaf&eacute; opgewaardeerd tot een hollands- en hazescaf&eacute; met zelfs een andr? hazes fanclub",
+            "nameid": "Postiljon"
+        },
+        {
+            "geo": [
+                "51.0385492",
+                "3.7293095"
+            ],
+            "id": "3158",
+            "type": "location",
+            "classref": 0,
+            "title": "249",
+            "uri": "/o/location/Porter+house/3158",
+            "content": "Irish pub en stamcaf&eacute; van de erasmusstudenten",
+            "nameid": "Porter house"
+        },
+        {
+            "geo": [
+                "51.0554583",
+                "3.719969"
+            ],
+            "id": "3157",
+            "type": "location",
+            "classref": 0,
+            "title": "106",
+            "uri": "/o/location/Poppi/3157",
+            "content": "Stijlvolle cocktail- en loungebar in het marriott hotel voor gasten en passanten",
+            "nameid": "Poppi"
+        },
+        {
+            "geo": [
+                "51.0480464",
+                "3.7278507"
+            ],
+            "id": "3156",
+            "type": "location",
+            "classref": 0,
+            "title": "213",
+            "uri": "/o/location/Pol%83+pol%83/3156",
+            "content": "Afrikaans ingericht cocktailcaf&eacute;, ook gekend van de gelijknamige festivals",
+            "nameid": "Pol pol"
+        },
+        {
+            "geo": [
+                "51.0403151",
+                "3.7255979"
+            ],
+            "id": "3155",
+            "type": "location",
+            "classref": 0,
+            "title": "243",
+            "uri": "/o/location/Point+final/3155",
+            "content": "Danscaf&eacute; met club-dj's op woensdag\n",
+            "nameid": "Point final"
+        },
+        {
+            "geo": [
+                "51.0542589",
+                "3.7224256"
+            ],
+            "id": "3154",
+            "type": "location",
+            "classref": 0,
+            "title": "120",
+            "uri": "/o/location/Platte+beurs/3154",
+            "content": "Bruin praat- en nachtcaf&eacute;, swingcaf&eacute; in het weekend\n",
+            "nameid": "Platte beurs"
+        },
+        {
+            "geo": [
+                "51.0465158",
+                "3.7211572"
+            ],
+            "id": "3153",
+            "type": "location",
+            "classref": 0,
+            "title": "197",
+            "uri": "/o/location/Plan+b/3153",
+            "content": "Praatcaf&eacute; voor jonge dertigers vlak aan 't brugske over de leie",
+            "nameid": "Plan b"
+        },
+        {
+            "geo": [
+                "51.0559404",
+                "3.7251384"
+            ],
+            "id": "3152",
+            "type": "location",
+            "classref": 0,
+            "title": "163",
+            "uri": "/o/location/Pink+flamingo%27s/3152",
+            "content": "Kitsch- en rariteitencaf&eacute; met keuken\n",
+            "nameid": "Pink flamingo's"
+        },
+        {
+            "geo": [
+                "51.0434939",
+                "3.7254298"
+            ],
+            "id": "3151",
+            "type": "location",
+            "classref": 0,
+            "title": "231",
+            "uri": "/o/location/Pi-nuts/3151",
+            "content": "Studenten- en ambiancecaf&eacute; dat van maandag tot vrijdag 24u/24u open blijft",
+            "nameid": "Pi-nuts"
+        },
+        {
+            "geo": [
+                "51.0436016",
+                "3.7210573"
+            ],
+            "id": "3168",
+            "type": "location",
+            "classref": 0,
+            "title": "196",
+            "uri": "/o/location/Sint-hubert/3168",
+            "content": "Gezellig donker studentencaf&eacute; met kickertafel en sportwedstrijden op tv",
+            "nameid": "Sint-hubert"
+        },
+        {
+            "geo": [
+                "51.0518867",
+                "3.7034454"
+            ],
+            "id": "3169",
+            "type": "location",
+            "classref": 0,
+            "title": "4",
+            "uri": "/o/location/Sint-martinus/3169",
+            "content": "Snookerhal met 15 snookertafels en 8 caramboles",
+            "nameid": "Sint-martinus"
+        },
+        {
+            "geo": [
+                "51.0488883",
+                "3.7283151"
+            ],
+            "id": "3170",
+            "type": "location",
+            "classref": 0,
+            "title": "205",
+            "uri": "/o/location/Sioux/3170",
+            "content": "Groot danscaf&eacute;, ook te gebruiken voor studenten- en priv?feesten",
+            "nameid": "Sioux"
+        },
+        {
+            "geo": [
+                "51.0413907",
+                "3.7297087"
+            ],
+            "id": "3187",
+            "type": "location",
+            "classref": 0,
+            "title": "282",
+            "uri": "/o/location/Sunset/3187",
+            "content": "Ambiancecaf&eacute;",
+            "nameid": "Sunset"
+        },
+        {
+            "geo": [
+                "51.0539906",
+                "3.7310495"
+            ],
+            "id": "3186",
+            "type": "location",
+            "classref": 0,
+            "title": "183",
+            "uri": "/o/location/Suite+16/3186",
+            "content": "Club met twee dansvloeren, twee soorten muziek en twee dj's",
+            "nameid": "Suite 16"
+        },
+        {
+            "geo": [
+                "51.0489418",
+                "3.7340196"
+            ],
+            "id": "3185",
+            "type": "location",
+            "classref": 0,
+            "title": "306",
+            "uri": "/o/location/Studio+skoop/3185",
+            "content": "Bruin praatcaf&eacute; van de alternatieve cinema studio skoop\n",
+            "nameid": "Studio skoop"
+        },
+        {
+            "geo": [
+                "51.0487378",
+                "3.7311076"
+            ],
+            "id": "3184",
+            "type": "location",
+            "classref": 0,
+            "title": "0",
+            "uri": "/o/location/Stereotype/3184",
+            "content": "Ongewoon caf&eacute; met eclectisch interieur",
+            "nameid": "Stereotype"
+        },
+        {
+            "geo": [
+                "51.047726",
+                "3.7271696"
+            ],
+            "id": "3183",
+            "type": "location",
+            "classref": 0,
+            "title": "215",
+            "uri": "/o/location/Stereo/3183",
+            "content": "Praat- en muziekcaf&eacute;, het enige studio brussel caf&eacute; in vlaanderen",
+            "nameid": "Stereo"
+        },
+        {
+            "geo": [
+                "51.047203",
+                "3.7270738"
+            ],
+            "id": "3182",
+            "type": "location",
+            "classref": 0,
+            "title": "219",
+            "uri": "/o/location/Stars+%26+stripes/3182",
+            "content": "All-american poolbar met 24 tafels \n",
+            "nameid": "Stars & stripes"
+        },
+        {
+            "geo": [
+                "51.0677235",
+                "3.7294994"
+            ],
+            "id": "3181",
+            "type": "location",
+            "classref": 0,
+            "title": "43",
+            "uri": "/o/location/Stamineetje/3181",
+            "content": "Volkscaf&eacute; met klein terraske en oude sjoelbak\n",
+            "nameid": "Stamineetje"
+        },
+        {
+            "geo": [
+                "51.0529968",
+                "3.7387614"
+            ],
+            "id": "3180",
+            "type": "location",
+            "classref": 0,
+            "title": "317",
+            "uri": "/o/location/Springs+2/3180",
+            "content": "Turks praatcaf&eacute;",
+            "nameid": "Springs 2"
+        },
+        {
+            "geo": [
+                "51.0486016",
+                "3.7318954"
+            ],
+            "id": "3179",
+            "type": "location",
+            "classref": 0,
+            "title": "303",
+            "uri": "/o/location/Springs/3179",
+            "content": "Praatcaf&eacute; met juke-box en veel internationale vaste klanten\n",
+            "nameid": "Springs"
+        },
+        {
+            "geo": [
+                "51.0539295",
+                "3.7217367"
+            ],
+            "id": "3178",
+            "type": "location",
+            "classref": 0,
+            "title": "130",
+            "uri": "/o/location/Sphinx/3178",
+            "content": "Stijlvol praatcaf&eacute; van cinema sphinx (voor de minder commerci&euml;le film)",
+            "nameid": "Sphinx"
+        },
+        {
+            "geo": [
+                "51.0384109",
+                "3.7262918"
+            ],
+            "id": "3177",
+            "type": "location",
+            "classref": 0,
+            "title": "277",
+            "uri": "/o/location/Speaker%27s+corner/3177",
+            "content": "Bruin muziekcaf&eacute; met het interieur van een pub\n\n",
+            "nameid": "Speaker's corner"
+        },
+        {
+            "geo": [
+                "51.0546292",
+                "3.7141802"
+            ],
+            "id": "3176",
+            "type": "location",
+            "classref": 0,
+            "title": "31",
+            "uri": "/o/location/Spaans+huis+%2F+rioja+espa%84ol/3176",
+            "content": "Spaanse bar - ontmoetingscentrum met spaanse aperitieven, gerechten en digestieven; bestaat al 36 jaar\n",
+            "nameid": "Spaans huis / rioja espaol"
+        },
+        {
+            "geo": [
+                "51.0579965",
+                "3.7239605"
+            ],
+            "id": "3175",
+            "type": "location",
+            "classref": 0,
+            "title": "79",
+            "uri": "/o/location/Soul+food+caf%83/3175",
+            "content": "Keldercaf&eacute; - cocktailbar dat een mix is van een ouderwetse huiskamer en een cocktail-lounge ",
+            "nameid": "Soul food caf"
+        },
+        {
+            "geo": [
+                "51.0542308",
+                "3.7175916"
+            ],
+            "id": "3174",
+            "type": "location",
+            "classref": 0,
+            "title": "28",
+            "uri": "/o/location/Sofia/3174",
+            "content": "Volkscaf&eacute; met bulgaarse uitbater\n",
+            "nameid": "Sofia"
+        },
+        {
+            "geo": [
+                "51.0380534",
+                "3.7204613"
+            ],
+            "id": "3173",
+            "type": "location",
+            "classref": 0,
+            "title": "276",
+            "uri": "/o/location/Smak+caf%83/3173",
+            "content": "Museumcaf&eacute; van het s.m.a.k. (stedelijk museum voor actuele kunst)",
+            "nameid": "Smak caf"
+        },
+        {
+            "geo": [
+                "51.0596408",
+                "3.7248764"
+            ],
+            "id": "3172",
+            "type": "location",
+            "classref": 0,
+            "title": "86",
+            "uri": "/o/location/Sluizeken/3172",
+            "content": "Turks praat- en kaartcaf&eacute;",
+            "nameid": "Sluizeken"
+        },
+        {
+            "geo": [
+                "51.0549835",
+                "3.7245448"
+            ],
+            "id": "3171",
+            "type": "location",
+            "classref": 0,
+            "title": "147",
+            "uri": "/o/location/Sjapo/3171",
+            "content": "Stamcaf&eacute; voor mensen met beperkingen\n",
+            "nameid": "Sjapo"
+        },
+        {
+            "geo": [
+                "51.0434343",
+                "3.7247292"
+            ],
+            "id": "3150",
+            "type": "location",
+            "classref": 0,
+            "title": "232",
+            "uri": "/o/location/Petrus/3150",
+            "content": "Studentencaf&eacute; met beroemde spaghetti\n",
+            "nameid": "Petrus"
+        },
+        {
+            "geo": [
+                "51.0398587",
+                "3.725694"
+            ],
+            "id": "3070",
+            "type": "location",
+            "classref": 0,
+            "title": "246",
+            "uri": "/o/location/Frontline%2F%27t+steegske/3070",
+            "content": "Kleine concertzaal die wekelijks meer dan drie hardrockoptredens programmeert. dit caf&eacute; heeft een grote en jarenlange reputatie als het gaat over hardrock, metal, punk, trash, gothic, blackmetal, stonerrock, hardcore, \nindustrial, noise, skatepunk...",
+            "nameid": "Frontline/'t steegske"
+        },
+        {
+            "geo": [
+                "51.0564831",
+                "3.7267208"
+            ],
+            "id": "2990",
+            "type": "location",
+            "classref": 0,
+            "title": "153",
+            "uri": "/o/location/Chat+noir/2990",
+            "content": "Volks- en praatcaf&eacute; met twee ingangen, overgenomen door de dochter en daarom veranderd van ?de zwarte kat? naar ?chat noir?",
+            "nameid": "Chat noir"
+        },
+        {
+            "geo": [
+                "51.0678307",
+                "3.7290914"
+            ],
+            "id": "2969",
+            "type": "location",
+            "classref": 0,
+            "title": "131",
+            "uri": "/o/location/Brasserie+pakhuis/2969",
+            "content": "Grote en chique bar-restaurant met rustig terras midden in de stad",
+            "nameid": "Brasserie pakhuis"
+        },
+        {
+            "geo": [
+                "51.0602435",
+                "3.7103048"
+            ],
+            "id": "2968",
+            "type": "location",
+            "classref": 0,
+            "title": "34",
+            "uri": "/o/location/Brasserie+den+hoet/2968",
+            "content": "Eet- en buurtcaf&eacute; met zomerterras\n",
+            "nameid": "Brasserie den hoet"
+        },
+        {
+            "geo": [
+                "51.0547944",
+                "3.7298098"
+            ],
+            "id": "2967",
+            "type": "location",
+            "classref": 0,
+            "title": "180",
+            "uri": "/o/location/Boven+de+grijze+wolken/2967",
+            "content": "Rustig bruin fee?riek cafeetje met knusse zetels, ?waar alle sprookjes samenkomen en nieuwe ontstaan?",
+            "nameid": "Boven de grijze wolken"
+        },
+        {
+            "geo": [
+                "51.0538066",
+                "3.7183501"
+            ],
+            "id": "2966",
+            "type": "location",
+            "classref": 0,
+            "title": "27",
+            "uri": "/o/location/Bornhem/2966",
+            "content": "Volkscaf&eacute; met levendige ambiance vanaf 's morgens vroeg, al 37 jaar bij caf&eacute;baas rudy",
+            "nameid": "Bornhem"
+        },
+        {
+            "geo": [
+                "51.0403098",
+                "3.7255597"
+            ],
+            "id": "2965",
+            "type": "location",
+            "classref": 0,
+            "title": "258",
+            "uri": "/o/location/Boom+boom/2965",
+            "content": "Alternatief muziek- en doorzakcaf&eacute;, &eacute;&eacute;n van de blijvers van de overpoort",
+            "nameid": "Boom boom"
+        },
+        {
+            "geo": [
+                "51.0463483",
+                "3.7221354"
+            ],
+            "id": "2964",
+            "type": "location",
+            "classref": 0,
+            "title": "222",
+            "uri": "/o/location/Bluesette/2964",
+            "content": "Bruin eet- en praatcaf&eacute; met druk tuinterras\n",
+            "nameid": "Bluesette"
+        },
+        {
+            "geo": [
+                "51.0406674",
+                "3.7296661"
+            ],
+            "id": "2963",
+            "type": "location",
+            "classref": 0,
+            "title": "286",
+            "uri": "/o/location/Bloomingdale%27s/2963",
+            "content": "Strak ingericht loungecaf&eacute; in de catacombes van kinepolis, voor een drink na de film",
+            "nameid": "Bloomingdale's"
+        },
+        {
+            "geo": [
+                "51.047203",
+                "3.7270738"
+            ],
+            "id": "2962",
+            "type": "location",
+            "classref": 0,
+            "title": "218",
+            "uri": "/o/location/Blandijn+snooker/2962",
+            "content": "Snookerzaal met 19 tafels\n",
+            "nameid": "Blandijn snooker"
+        },
+        {
+            "geo": [
+                "51.0496599",
+                "3.7322765"
+            ],
+            "id": "2961",
+            "type": "location",
+            "classref": 0,
+            "title": "300",
+            "uri": "/o/location/Biz%3Fart/2961",
+            "content": "Eetcaf&eacute; annex kunsthuisje in oude beenhouwerij\n",
+            "nameid": "Biz?art"
+        },
+        {
+            "geo": [
+                "51.0622055",
+                "3.7274591"
+            ],
+            "id": "2960",
+            "type": "location",
+            "classref": 0,
+            "title": "58",
+            "uri": "/o/location/Beste/2960",
+            "content": "Internationaal praat- en muziekcaf&eacute;\n",
+            "nameid": "Beste"
+        },
+        {
+            "geo": [
+                "51.0605695",
+                "3.7106221"
+            ],
+            "id": "2959",
+            "type": "location",
+            "classref": 0,
+            "title": "35",
+            "uri": "/o/location/Bentos/2959",
+            "content": "Buurt- en volkscaf&eacute;\n",
+            "nameid": "Bentos"
+        },
+        {
+            "geo": [
+                "51.052499",
+                "3.7001355"
+            ],
+            "id": "2958",
+            "type": "location",
+            "classref": 0,
+            "title": "3",
+            "uri": "/o/location/Belgica/2958",
+            "content": "Buurtcaf&eacute; bij carla\n",
+            "nameid": "Belgica"
+        },
+        {
+            "geo": [
+                "51.05491",
+                "3.72087"
+            ],
+            "id": "2957",
+            "type": "location",
+            "classref": 0,
+            "title": "110",
+            "uri": "/o/location/Belga+queen/2957",
+            "content": "Chique restaurant met koloniale bar in het oude korenstapelhuis ?de spijker?",
+            "nameid": "Belga queen"
+        },
+        {
+            "geo": [
+                "51.0567388",
+                "3.7231932"
+            ],
+            "id": "2956",
+            "type": "location",
+            "classref": 0,
+            "title": "98",
+            "uri": "/o/location/Barrazza/2956",
+            "content": "Holebivriendelijk praatcaf&eacute; (verborgen in een zijsteegje van de langemunt) dat uitgeeft op de leie",
+            "nameid": "Barrazza"
+        },
+        {
+            "geo": [
+                "51.059189",
+                "3.7208044"
+            ],
+            "id": "2955",
+            "type": "location",
+            "classref": 0,
+            "title": "68",
+            "uri": "/o/location/Bar-bier/2955",
+            "content": "Kapperscaf&eacute; waar men uw haar doet terwijl ge drinkt",
+            "nameid": "Bar-bier"
+        },
+        {
+            "geo": [
+                "51.0548042",
+                "3.7252771"
+            ],
+            "id": "2954",
+            "type": "location",
+            "classref": 0,
+            "title": "144",
+            "uri": "/o/location/Bar+van+artevelde/2954",
+            "content": "Caf&eacute; bij hotel sofitel met vast tapijt en zetelkes rond de tafels",
+            "nameid": "Bar van artevelde"
+        },
+        {
+            "geo": [
+                "51.0558755",
+                "3.7283859"
+            ],
+            "id": "2953",
+            "type": "location",
+            "classref": 0,
+            "title": "173",
+            "uri": "/o/location/Bar+des+amis/2953",
+            "content": "Groot ambitieus rendez-vous caf&eacute; van de pol? pol? mannen (zie ook de caf&eacute;s in de lammerstraat), met twee verdiepingen en twee bars",
+            "nameid": "Bar des amis"
+        },
+        {
+            "geo": [
+                "51.0434041",
+                "3.7264454"
+            ],
+            "id": "2970",
+            "type": "location",
+            "classref": 0,
+            "title": "235",
+            "uri": "/o/location/Bristol+club/2970",
+            "content": "Pub met twee snookertafels\n",
+            "nameid": "Bristol club"
+        },
+        {
+            "geo": [
+                "51.0551251",
+                "3.720321"
+            ],
+            "id": "2971",
+            "type": "location",
+            "classref": 0,
+            "title": "108",
+            "uri": "/o/location/Brixx/2971",
+            "content": "Lounge bar in de kelder van het marriott hotel, met gewelven en strak interieur",
+            "nameid": "Brixx"
+        },
+        {
+            "geo": [
+                "51.0493263",
+                "3.7308809"
+            ],
+            "id": "2972",
+            "type": "location",
+            "classref": 0,
+            "title": "296",
+            "uri": "/o/location/Brooklyn/2972",
+            "content": "Volkse loungebar aan de ingang van het glazen straatje met gevarieerd publiek waar vooral sterke drank wordt gedronken",
+            "nameid": "Brooklyn"
+        },
+        {
+            "geo": [
+                "51.0400577",
+                "3.7256129"
+            ],
+            "id": "2989",
+            "type": "location",
+            "classref": 0,
+            "title": "260",
+            "uri": "/o/location/Charlie%27s/2989",
+            "content": "Studenten- en ambiancecaf&eacute;\n",
+            "nameid": "Charlie's"
+        },
+        {
+            "geo": [
+                "51.0560619",
+                "3.7282741"
+            ],
+            "id": "2988",
+            "type": "location",
+            "classref": 0,
+            "title": "174",
+            "uri": "/o/location/Charlatan/2988",
+            "content": "Populair uitgaans- en muziekcaf&eacute;, epicentrum van de vlasmarkt",
+            "nameid": "Charlatan"
+        },
+        {
+            "geo": [
+                "51.0514749",
+                "3.7196366"
+            ],
+            "id": "2987",
+            "type": "location",
+            "classref": 0,
+            "title": "23",
+            "uri": "/o/location/Champagnebar+chez+de+beir/2987",
+            "content": "Trendy champagne- en tapasbar gespecialiseerd in eigen import",
+            "nameid": "Champagnebar chez de beir"
+        },
+        {
+            "geo": [
+                "51.0499571",
+                "3.730411"
+            ],
+            "id": "2986",
+            "type": "location",
+            "classref": 0,
+            "title": "297",
+            "uri": "/o/location/Caprice/2986",
+            "content": "Internationaal praatcaf&eacute; ",
+            "nameid": "Caprice"
+        },
+        {
+            "geo": [
+                "51.0582293",
+                "3.7241329"
+            ],
+            "id": "2985",
+            "type": "location",
+            "classref": 0,
+            "title": "80",
+            "uri": "/o/location/Cantina+mexicana/2985",
+            "content": "Mexicaans kelder- en cocktailcaf&eacute; met tapas en mexicaanse bieren",
+            "nameid": "Cantina mexicana"
+        },
+        {
+            "geo": [
+                "51.0394279",
+                "3.7257866"
+            ],
+            "id": "2984",
+            "type": "location",
+            "classref": 0,
+            "title": "269",
+            "uri": "/o/location/Canard+bizar/2984",
+            "content": "Studentencaf&eacute; met zes studentenclubs: hortecta, abnormalia, zandloper, wina, stropke, heilige drievuldigheid",
+            "nameid": "Canard bizar"
+        },
+        {
+            "geo": [
+                "51.0616421",
+                "3.7267796"
+            ],
+            "id": "2983",
+            "type": "location",
+            "classref": 0,
+            "title": "65",
+            "uri": "/o/location/Can/2983",
+            "content": "Turks caf&eacute; met sport op tv en okey op de tafels",
+            "nameid": "Can"
+        },
+        {
+            "geo": [
+                "51.0641854",
+                "3.7187021"
+            ],
+            "id": "2982",
+            "type": "location",
+            "classref": 0,
+            "title": "38",
+            "uri": "/o/location/Caff%83e+boull%83e/2982",
+            "content": "Nog niet open, maar nu al populair\n",
+            "nameid": "Caffe boulle"
+        },
+        {
+            "geo": [
+                "51.050009",
+                "3.7169882"
+            ],
+            "id": "2981",
+            "type": "location",
+            "classref": 0,
+            "title": "13",
+            "uri": "/o/location/Caf%8E+de+loge/2981",
+            "content": "Praat-, eet-, en leescaf&eacute; met boekenkast, tijdschriften, kranten en gezelschapsspellen\n\n",
+            "nameid": "Caf de loge"
+        },
+        {
+            "geo": [
+                "51.0500068",
+                "3.7246365"
+            ],
+            "id": "2980",
+            "type": "location",
+            "classref": 0,
+            "title": "17",
+            "uri": "/o/location/Caf%83+theatre/2980",
+            "content": "Chique bar voor aperitieven en digestieven gelinkt aan het gelijknamige restaurant",
+            "nameid": "Caf theatre"
+        },
+        {
+            "geo": [
+                "51.058218",
+                "3.7240728"
+            ],
+            "id": "2979",
+            "type": "location",
+            "classref": 0,
+            "title": "81",
+            "uri": "/o/location/Caf%83+oudburg/2979",
+            "content": "Rustig praat-, cocktail- en tapascaf&eacute;\n",
+            "nameid": "Caf oudburg"
+        },
+        {
+            "geo": [
+                "51.0538751",
+                "3.724857"
+            ],
+            "id": "2978",
+            "type": "location",
+            "classref": 0,
+            "title": "140",
+            "uri": "/o/location/Caf%83+leffe/2978",
+            "content": "Brasserie van brouwerij inbev ter promotie van leffe, meer brasserie dan caf&eacute;\n",
+            "nameid": "Caf leffe"
+        },
+        {
+            "geo": [
+                "51.0461689",
+                "3.7163032"
+            ],
+            "id": "2977",
+            "type": "location",
+            "classref": 0,
+            "title": "191",
+            "uri": "/o/location/Caf%83+lambert/2977",
+            "content": "Volkscaf&eacute; bij fabienne & rudy\n",
+            "nameid": "Caf lambert"
+        },
+        {
+            "geo": [
+                "51.0498241",
+                "3.7219782"
+            ],
+            "id": "2976",
+            "type": "location",
+            "classref": 0,
+            "title": "19",
+            "uri": "/o/location/Caf%83+des+arts/2976",
+            "content": "Brasserie en toogcaf&eacute; in franse stijl\n",
+            "nameid": "Caf des arts"
+        },
+        {
+            "geo": [
+                "51.0544445",
+                "3.7255383"
+            ],
+            "id": "2975",
+            "type": "location",
+            "classref": 0,
+            "title": "143",
+            "uri": "/o/location/Caf%26eacute%3B+den+turk/2975",
+            "content": "Oudste caf&eacute; van gent met een typisch gentse arrogantie\n",
+            "nameid": "Café den turk"
+        },
+        {
+            "geo": [
+                "51.0573057",
+                "3.7233276"
+            ],
+            "id": "2974",
+            "type": "location",
+            "classref": 0,
+            "title": "76",
+            "uri": "/o/location/Caf%83+de+hel/2974",
+            "content": "Genotssalon in stijlvolle en warme parijse sfeer\n",
+            "nameid": "Caf de hel"
+        },
+        {
+            "geo": [
+                "51.0526405",
+                "3.7261219"
+            ],
+            "id": "2973",
+            "type": "location",
+            "classref": 0,
+            "title": "137",
+            "uri": "/o/location/Caf%83+belge/2973",
+            "content": "Rustig praatcaf&eacute; gelinkt aan het ibis hotel, wel toegankelijk voor iedereen",
+            "nameid": "Caf belge"
+        },
+        {
+            "geo": [
+                "51.0436453",
+                "3.7260695"
+            ],
+            "id": "2952",
+            "type": "location",
+            "classref": 0,
+            "title": "230",
+            "uri": "/o/location/Bar+deco/2952",
+            "content": "Eigenzinnig jazzcaf&eacute; in een nieuw art deco interieur",
+            "nameid": "Bar deco"
+        },
+        {
+            "geo": [
+                "51.0548872",
+                "3.7249373"
+            ],
+            "id": "2951",
+            "type": "location",
+            "classref": 0,
+            "title": "146",
+            "uri": "/o/location/Bar+daniel/2951",
+            "content": "Hier verbouwt daniel, hij opent na de zomer. wordt vervolgd, maar het zal 't erop zijn !",
+            "nameid": "Bar daniel"
+        },
+        {
+            "geo": [
+                "51.0542472",
+                "3.7224926"
+            ],
+            "id": "2950",
+            "type": "location",
+            "classref": 0,
+            "title": "121",
+            "uri": "/o/location/Bar+bizart/2950",
+            "content": "Swing-, ambiance- en nachtcaf&eacute; met dj die draait achter het voorstuk van een plastieken wagen",
+            "nameid": "Bar bizart"
+        },
+        {
+            "geo": [
+                "51.0562832",
+                "3.7282454"
+            ],
+            "id": "2929",
+            "type": "location",
+            "classref": 0,
+            "title": "172",
+            "uri": "/o/location/%27t+begin+van+%27t+einde/2929",
+            "content": "Bruin muziek- en nachtcaf&eacute; voor vaste klanten en vlasmarktgangers",
+            "nameid": "'t begin van 't einde"
+        },
+        {
+            "geo": [
+                "51.0588863",
+                "3.7246246"
+            ],
+            "id": "2928",
+            "type": "location",
+            "classref": 0,
+            "title": "84",
+            "uri": "/o/location/Aydin/2928",
+            "content": "Turks buurtcaf&eacute; dat meer lijkt op een huiskamer, met al 26 jaar caf&eacute;baas bayram, die al ver over de 70 is",
+            "nameid": "Aydin"
+        },
+        {
+            "geo": [
+                "51.0446863",
+                "3.7264527"
+            ],
+            "id": "2927",
+            "type": "location",
+            "classref": 0,
+            "title": "224",
+            "uri": "/o/location/Artevelde/2927",
+            "content": "Groot studentencaf&eacute; met speelzaal met flipper, darts, airhockey, 2 kickers en 2 pooltafels",
+            "nameid": "Artevelde"
+        },
+        {
+            "geo": [
+                "51.0439357",
+                "3.7256638"
+            ],
+            "id": "2926",
+            "type": "location",
+            "classref": 0,
+            "title": "228",
+            "uri": "/o/location/Amber/2926",
+            "content": "Studentencaf&eacute; voor spijbelaars van de blandijn",
+            "nameid": "Amber"
+        },
+        {
+            "geo": [
+                "51.0410123",
+                "3.7254522"
+            ],
+            "id": "2925",
+            "type": "location",
+            "classref": 0,
+            "title": "255",
+            "uri": "/o/location/Ambar/2925",
+            "content": "Danscaf&eacute; met buitensmijters, waar studenten zeker ook welkom zijn\n",
+            "nameid": "Ambar"
+        },
+        {
+            "geo": [
+                "51.0541658",
+                "3.7229617"
+            ],
+            "id": "2924",
+            "type": "location",
+            "classref": 0,
+            "title": "126",
+            "uri": "/o/location/Akotee/2924",
+            "content": "Ambiance swingcaf&eacute;, de trappen op, eerste verdieping naar links",
+            "nameid": "Akotee"
+        },
+        {
+            "geo": [
+                "51.0567967",
+                "3.7275266"
+            ],
+            "id": "2923",
+            "type": "location",
+            "classref": 0,
+            "title": "158",
+            "uri": "/o/location/Afsnis/2923",
+            "content": "'s nachts een uitgaanscaf&eacute;, 's morgens een bruin rommelmarktcaf&eacute;, vaste waarde in gent",
+            "nameid": "Afsnis"
+        },
+        {
+            "geo": [
+                "51.0569764",
+                "3.7378723"
+            ],
+            "id": "2922",
+            "type": "location",
+            "classref": 0,
+            "title": "186",
+            "uri": "/o/location/Afrikaans+huis/2922",
+            "content": "Stamcaf&eacute;-vzw voor afrikanen en zwarte blanken met de bedoeling om beide culturen samen te brengen",
+            "nameid": "Afrikaans huis"
+        },
+        {
+            "geo": [
+                "51.0463578",
+                "3.722095"
+            ],
+            "id": "2921",
+            "type": "location",
+            "classref": 0,
+            "title": "221",
+            "uri": "/o/location/Afkikker/2921",
+            "content": "Eet- en praatcaf&eacute;\n",
+            "nameid": "Afkikker"
+        },
+        {
+            "geo": [
+                "51.0397276",
+                "3.7257273"
+            ],
+            "id": "2920",
+            "type": "location",
+            "classref": 0,
+            "title": "247",
+            "uri": "/o/location/Abou+simbel/2920",
+            "content": "Alternatief bruin studentencaf&eacute;, al 20 jaar bij stef",
+            "nameid": "Abou simbel"
+        },
+        {
+            "geo": [
+                "51.0555821",
+                "3.7229558"
+            ],
+            "id": "2919",
+            "type": "location",
+            "classref": 0,
+            "title": "150",
+            "uri": "/o/location/Abacho/2919",
+            "content": "Aperitief- en digestiefbar in een middeleeuwse kelder met lounge interieur",
+            "nameid": "Abacho"
+        },
+        {
+            "geo": [
+                "51.058037",
+                "3.7239905"
+            ],
+            "id": "2918",
+            "type": "location",
+            "classref": 0,
+            "title": "78",
+            "uri": "/o/location/Aba-jour/2918",
+            "content": "Bekend bier- en eetcaf&eacute;\n",
+            "nameid": "Aba-jour"
+        },
+        {
+            "geo": [
+                "51.040355",
+                "3.7255895"
+            ],
+            "id": "2917",
+            "type": "location",
+            "classref": 0,
+            "title": "242",
+            "uri": "/o/location/A+pro+po/2917",
+            "content": "Exclusief caf&eacute; met kieskeurige buitensmijters en patron\n",
+            "nameid": "A pro po"
+        },
+        {
+            "geo": [
+                "51.0433139",
+                "3.7163895"
+            ],
+            "id": "2916",
+            "type": "location",
+            "classref": 0,
+            "title": "192",
+            "uri": "/o/location/A+capella/2916",
+            "content": "Deftig eetcaf&eacute; om te bezoeken na een concert in de bijloke",
+            "nameid": "A capella"
+        },
+        {
+            "geo": [
+                "51.0460188",
+                "3.7158206"
+            ],
+            "id": "2915",
+            "type": "location",
+            "classref": 0,
+            "title": "190",
+            "uri": "/o/location/%27t+zwart+schaap/2915",
+            "content": "Buurt- en studentencaf&eacute;\n",
+            "nameid": "'t zwart schaap"
+        },
+        {
+            "geo": [
+                "51.0568561",
+                "3.726333"
+            ],
+            "id": "2914",
+            "type": "location",
+            "classref": 0,
+            "title": "156",
+            "uri": "/o/location/%27t+zuiden+van+europa/2914",
+            "content": "Klein praat- en weekendcaf&eacute; bij sympathieke mens dirk dauw\n",
+            "nameid": "'t zuiden van europa"
+        },
+        {
+            "geo": [
+                "51.0532836",
+                "3.7254428"
+            ],
+            "id": "2913",
+            "type": "location",
+            "classref": 0,
+            "title": "138",
+            "uri": "/o/location/%27t+vosken/2913",
+            "content": "Brasserie - caf&eacute; met groot zomerterras, bij alain en christine\n",
+            "nameid": "'t vosken"
+        },
+        {
+            "geo": [
+                "51.0576822",
+                "3.7236635"
+            ],
+            "id": "2930",
+            "type": "location",
+            "classref": 0,
+            "title": "75",
+            "uri": "/o/location/%27t+cafeetse+van+%27t+museetse/2930",
+            "content": "Gents caf&eacute; van het volksmuseum ?huis van alijn? (enkel overdag open en 's avonds op de laatste donderdag van \nde maand)",
+            "nameid": "'t cafeetse van 't museetse"
+        },
+        {
+            "geo": [
+                "51.0504952",
+                "3.721199"
+            ],
+            "id": "2931",
+            "type": "location",
+            "classref": 0,
+            "title": "22",
+            "uri": "/o/location/%27t+centerke/2931",
+            "content": "Volkscaf&eacute; met een rare mengeling van stamgasten en passanten",
+            "nameid": "'t centerke"
+        },
+        {
+            "geo": [
+                "51.0563049",
+                "3.7223536"
+            ],
+            "id": "2932",
+            "type": "location",
+            "classref": 0,
+            "title": "100",
+            "uri": "/o/location/%27t+dreupelkot/2932",
+            "content": "Bruin klein druppelkot, al 23 jaar bij pol\n",
+            "nameid": "'t dreupelkot"
+        },
+        {
+            "geo": [
+                "51.0473157",
+                "3.7270992"
+            ],
+            "id": "2949",
+            "type": "location",
+            "classref": 0,
+            "title": "217",
+            "uri": "/o/location/Backstage/2949",
+            "content": "Eetcaf&eacute; - muziektheater in de voormalige redactielokalen van de krant ?vooruit?",
+            "nameid": "Backstage"
+        },
+        {
+            "geo": [
+                "51.0678307",
+                "3.7290914"
+            ],
+            "id": "2948",
+            "type": "location",
+            "classref": 0,
+            "title": "233",
+            "uri": "/o/location/Backdoor/2948",
+            "content": "Rasecht rock & roll bruin biercaf&eacute;\n",
+            "nameid": "Backdoor"
+        },
+        {
+            "geo": [
+                "51.058267",
+                "3.7240527"
+            ],
+            "id": "2947",
+            "type": "location",
+            "classref": 0,
+            "title": "82",
+            "uri": "/o/location/%27t+velootje/2947",
+            "content": "Eigenzinnig groezelig klein bruin caf&eacute; achter een geklasseerde gevel, vol toeristen en ramptoeristen",
+            "nameid": "'t velootje"
+        },
+        {
+            "geo": [
+                "51.039981",
+                "3.725629"
+            ],
+            "id": "2946",
+            "type": "location",
+            "classref": 0,
+            "title": "262",
+            "uri": "/o/location/%27t+putje/2946",
+            "content": "Studentencaf&eacute;",
+            "nameid": "'t putje"
+        },
+        {
+            "geo": [
+                "51.0678307",
+                "3.7290914"
+            ],
+            "id": "2945",
+            "type": "location",
+            "classref": 0,
+            "title": "25",
+            "uri": "/o/location/%27t+oud+clooster/2945",
+            "content": "Eet- en praatcaf&eacute; met religieus interieur en tuinterras\n",
+            "nameid": "'t oud clooster"
+        },
+        {
+            "geo": [
+                "51.0474833",
+                "3.7218159"
+            ],
+            "id": "2944",
+            "type": "location",
+            "classref": 0,
+            "title": "200",
+            "uri": "/o/location/%27t+oud+cambridge/2944",
+            "content": "Rustig praat- en eetcaf&eacute;\n",
+            "nameid": "'t oud cambridge"
+        },
+        {
+            "geo": [
+                "51.0559762",
+                "3.7283348"
+            ],
+            "id": "2943",
+            "type": "location",
+            "classref": 0,
+            "title": "170",
+            "uri": "/o/location/%27t+krochtje/2943",
+            "content": "Gekend keldercaf&eacute; waar ge om 6u30 nog een verse spaghetti kunt eten",
+            "nameid": "'t krochtje"
+        },
+        {
+            "geo": [
+                "51.0393954",
+                "3.7258049"
+            ],
+            "id": "2942",
+            "type": "location",
+            "classref": 0,
+            "title": "270",
+            "uri": "/o/location/%27t+kofschip/2942",
+            "content": "Studentencaf&eacute; met vier studentenclubs: ideefix, hilok, anabolic, regent",
+            "nameid": "'t kofschip"
+        },
+        {
+            "geo": [
+                "51.0575155",
+                "3.7244612"
+            ],
+            "id": "2941",
+            "type": "location",
+            "classref": 0,
+            "title": "96",
+            "uri": "/o/location/%27t+kanon/2941",
+            "content": "Echt gents volkscaf&eacute; bij nadia en gerard, voor de oude garde van het nachtleven",
+            "nameid": "'t kanon"
+        },
+        {
+            "geo": [
+                "51.0558048",
+                "3.7217936"
+            ],
+            "id": "2940",
+            "type": "location",
+            "classref": 0,
+            "title": "103",
+            "uri": "/o/location/%27t+gouden+mandeke/2940",
+            "content": "Bruin praatcaf&eacute; met plafond vol manden\n",
+            "nameid": "'t gouden mandeke"
+        },
+        {
+            "geo": [
+                "51.0559554",
+                "3.7269738"
+            ],
+            "id": "2939",
+            "type": "location",
+            "classref": 0,
+            "title": "167",
+            "uri": "/o/location/%27t+gents+geestenrijk/2939",
+            "content": "Goed verborgen piepklein druppel- en whiskykot in rustiek interieur, het kleinste caf&eacute; van gent (net zoals het galgenhuisje), qua kleinste toog concurreert het met het dreupelkot",
+            "nameid": "'t gents geestenrijk"
+        },
+        {
+            "geo": [
+                "51.0395535",
+                "3.7257431"
+            ],
+            "id": "2938",
+            "type": "location",
+            "classref": 0,
+            "title": "268",
+            "uri": "/o/location/%27t+genoegen/2938",
+            "content": "Studentencaf&eacute;",
+            "nameid": "'t genoegen"
+        },
+        {
+            "geo": [
+                "51.0567346",
+                "3.7213135"
+            ],
+            "id": "2937",
+            "type": "location",
+            "classref": 0,
+            "title": "72",
+            "uri": "/o/location/%27t+geduld/2937",
+            "content": "Donker ambiance- en nachtcaf&eacute; met internationaal publiek\n",
+            "nameid": "'t geduld"
+        },
+        {
+            "geo": [
+                "51.0489363",
+                "3.727024"
+            ],
+            "id": "2936",
+            "type": "location",
+            "classref": 0,
+            "title": "204",
+            "uri": "/o/location/%27t+gebed+zonder+eind/2936",
+            "content": "Sfeervol 19de-eeuws bruin muziek- en eetcaf&eacute;\n",
+            "nameid": "'t gebed zonder eind"
+        },
+        {
+            "geo": [
+                "51.0556515",
+                "3.7221595"
+            ],
+            "id": "2935",
+            "type": "location",
+            "classref": 0,
+            "title": "102",
+            "uri": "/o/location/%27t+galgenhuisje/2935",
+            "content": "Zeventiende-eeuws bruin caf&eacute;, kleinste caf&eacute; van gent, non stop caf&eacute; sinds 1776",
+            "nameid": "'t galgenhuisje"
+        },
+        {
+            "geo": [
+                "51.0595059",
+                "3.7186702"
+            ],
+            "id": "2934",
+            "type": "location",
+            "classref": 0,
+            "title": "36",
+            "uri": "/o/location/%27t+floere+foefke/2934",
+            "content": "Klein bruin buurt- en nachtcaf&eacute;\n",
+            "nameid": "'t floere foefke"
+        },
+        {
+            "geo": [
+                "51.0567346",
+                "3.7213135"
+            ],
+            "id": "2933",
+            "type": "location",
+            "classref": 0,
+            "title": "70",
+            "uri": "/o/location/%27t+einde+der+beschaving/2933",
+            "content": "Praat- en biercaf&eacute;, waar veel gezeverd en gezwansd wordt aan de lange toog",
+            "nameid": "'t einde der beschaving"
+        },
+        {
+            "geo": [
+                "51.0551555",
+                "3.7219589"
+            ],
+            "id": "2912",
+            "type": "location",
+            "classref": 0,
+            "title": "114",
+            "uri": "/o/location/%27t+postje/2912",
+            "content": "Brasserie - praatcaf&eacute;\n",
+            "nameid": "'t postje"
+        },
+        {
+            "geo": [
+                "51.0557265",
+                "3.7272742"
+            ],
+            "id": "3069",
+            "type": "location",
+            "classref": 0,
+            "title": "164",
+            "uri": "/o/location/Foyer+casa+rosa/3069",
+            "content": "Praatcaf&eacute; voor holebi's en vrienden\n",
+            "nameid": "Foyer casa rosa"
+        },
+        {
+            "geo": [
+                "51.0389102",
+                "3.7291105"
+            ],
+            "id": "3048",
+            "type": "location",
+            "classref": 0,
+            "title": "253",
+            "uri": "/o/location/Den+drummer/3048",
+            "content": "Puur rock & rollcaf&eacute; met de volbloed rocker nico aan de tapkranen",
+            "nameid": "Den drummer"
+        },
+        {
+            "geo": [
+                "51.0506913",
+                "3.7119405"
+            ],
+            "id": "3047",
+            "type": "location",
+            "classref": 0,
+            "title": "10",
+            "uri": "/o/location/Den+draver/3047",
+            "content": "Bruin studentencaf&eacute; met kicker en darts\n",
+            "nameid": "Den draver"
+        },
+        {
+            "geo": [
+                "51.039275",
+                "3.7335668"
+            ],
+            "id": "3046",
+            "type": "location",
+            "classref": 0,
+            "title": "291",
+            "uri": "/o/location/Den+buroo/3046",
+            "content": "Bruin caf&eacute; voor zowel studenten als ambtenaren\n",
+            "nameid": "Den buroo"
+        },
+        {
+            "geo": [
+                "51.0523839",
+                "3.6997133"
+            ],
+            "id": "3045",
+            "type": "location",
+            "classref": 0,
+            "title": "2",
+            "uri": "/o/location/Den+brusseleer/3045",
+            "content": "Bruin buurtcaf&eacute; waar de baas nog meedrinkt",
+            "nameid": "Den brusseleer"
+        },
+        {
+            "geo": [
+                "51.0501341",
+                "3.7138167"
+            ],
+            "id": "3044",
+            "type": "location",
+            "classref": 0,
+            "title": "11",
+            "uri": "/o/location/Den+biekorf/3044",
+            "content": "Caf&eacute; met studenten, buurtbewoners, vogelpiek en jukebox \n\n",
+            "nameid": "Den biekorf"
+        },
+        {
+            "geo": [
+                "51.0640512",
+                "3.7339945"
+            ],
+            "id": "3043",
+            "type": "location",
+            "classref": 0,
+            "title": "53",
+            "uri": "/o/location/Den+anker/3043",
+            "content": "Nog steeds hetzelfde volkscaf&eacute;, met andere tinten en 'super chilled? pinten",
+            "nameid": "Den anker"
+        },
+        {
+            "geo": [
+                "51.0392654",
+                "3.7258782"
+            ],
+            "id": "3042",
+            "type": "location",
+            "classref": 0,
+            "title": "273",
+            "uri": "/o/location/Delirium+tremens/3042",
+            "content": "Studentencaf&eacute; met druk bezette kickertafel en verschillende eigen ploegen",
+            "nameid": "Delirium tremens"
+        },
+        {
+            "geo": [
+                "51.0541541",
+                "3.7230287"
+            ],
+            "id": "3041",
+            "type": "location",
+            "classref": 0,
+            "title": "128",
+            "uri": "/o/location/Delirium+caf%83/3041",
+            "content": "Groot bruin bier- en keldercaf&eacute; met middeleeuwse gewelven, momenteel dicht",
+            "nameid": "Delirium caf"
+        },
+        {
+            "geo": [
+                "51.0433029",
+                "3.7245798"
+            ],
+            "id": "3040",
+            "type": "location",
+            "classref": 0,
+            "title": "234",
+            "uri": "/o/location/Defoo/3040",
+            "content": "Bruin studentencaf&eacute;\n",
+            "nameid": "Defoo"
+        },
+        {
+            "geo": [
+                "51.039789",
+                "3.7256695"
+            ],
+            "id": "3039",
+            "type": "location",
+            "classref": 0,
+            "title": "265",
+            "uri": "/o/location/Decadance/3039",
+            "content": "Populair alternatief danscaf&eacute; met drie ruimtes met verschillende muziek, een vaste waarde in het nachtleven",
+            "nameid": "Decadance"
+        },
+        {
+            "geo": [
+                "51.0551786",
+                "3.7210067"
+            ],
+            "id": "3038",
+            "type": "location",
+            "classref": 0,
+            "title": "109",
+            "uri": "/o/location/De+zwarte+zee/3038",
+            "content": "Klein eetcaf&eacute; met russische patron\n",
+            "nameid": "De zwarte zee"
+        },
+        {
+            "geo": [
+                "51.0569786",
+                "3.7382907"
+            ],
+            "id": "3037",
+            "type": "location",
+            "classref": 0,
+            "title": "187",
+            "uri": "/o/location/De+zevende+hemel/3037",
+            "content": "Buurtcaf&eacute;, gaat na de verbouwingen terug open\n",
+            "nameid": "De zevende hemel"
+        },
+        {
+            "geo": [
+                "51.0640827",
+                "3.7290653"
+            ],
+            "id": "3036",
+            "type": "location",
+            "classref": 0,
+            "title": "50",
+            "uri": "/o/location/De+wan/3036",
+            "content": "Volkscaf&eacute; met sjoelbakkers, pietjesbakkers en tapbiljarters",
+            "nameid": "De wan"
+        },
+        {
+            "geo": [
+                "51.0464442",
+                "3.721584"
+            ],
+            "id": "3035",
+            "type": "location",
+            "classref": 0,
+            "title": "198",
+            "uri": "/o/location/De+verloren+hemel/3035",
+            "content": "Praatcaf&eacute; met assyrische uitbater\n",
+            "nameid": "De verloren hemel"
+        },
+        {
+            "geo": [
+                "51.0405548",
+                "3.7255474"
+            ],
+            "id": "3034",
+            "type": "location",
+            "classref": 0,
+            "title": "240",
+            "uri": "/o/location/De+vagant/3034",
+            "content": "Studenten- en swingcaf&eacute;, overdag een eetcaf&eacute;\n",
+            "nameid": "De vagant"
+        },
+        {
+            "geo": [
+                "51.0455257",
+                "3.7348805"
+            ],
+            "id": "3033",
+            "type": "location",
+            "classref": 0,
+            "title": "308",
+            "uri": "/o/location/De+toverdoos/3033",
+            "content": "Artistiek praatcaf&eacute; van de vrije akademie gent vzw, bestaat al 25 jaar met caf&eacute;baas en inspirator-kunstenaar arnold verh?",
+            "nameid": "De toverdoos"
+        },
+        {
+            "geo": [
+                "51.0573808",
+                "3.7247878"
+            ],
+            "id": "3032",
+            "type": "location",
+            "classref": 0,
+            "title": "97",
+            "uri": "/o/location/De+tempelier/3032",
+            "content": "Alternatief bruin gents muziek- en doorzakcaf&eacute;",
+            "nameid": "De tempelier"
+        },
+        {
+            "geo": [
+                "51.0428789",
+                "3.7291245"
+            ],
+            "id": "3049",
+            "type": "location",
+            "classref": 0,
+            "title": "281",
+            "uri": "/o/location/Den+hemel/3049",
+            "content": "Legendarisch bruin praat- en muziekcaf&eacute; in een voormalig ?huis van plezier?\n",
+            "nameid": "Den hemel"
+        },
+        {
+            "geo": [
+                "51.056138",
+                "3.7265559"
+            ],
+            "id": "3050",
+            "type": "location",
+            "classref": 0,
+            "title": "162",
+            "uri": "/o/location/Den+kelder/3050",
+            "content": "Jeugdhuis in kelder, enkel open op vrijdag",
+            "nameid": "Den kelder"
+        },
+        {
+            "geo": [
+                "51.0491679",
+                "3.7309951"
+            ],
+            "id": "3051",
+            "type": "location",
+            "classref": 0,
+            "title": "295",
+            "uri": "/o/location/Den+yzer/3051",
+            "content": "Brasserie-praatcaf&eacute;-hotel in franse stijl, bestaat al sinds mensenheugenis, maar sluit helaas op het eind van de zomer van 2008",
+            "nameid": "Den yzer"
+        },
+        {
+            "geo": [
+                "51.059092",
+                "3.721941"
+            ],
+            "id": "3068",
+            "type": "location",
+            "classref": 0,
+            "title": "67",
+            "uri": "/o/location/Folklore/3068",
+            "content": "Rasecht bruin volkscaf&eacute; waar we naar aloude traditie gekookte eieren eten bij het drinken",
+            "nameid": "Folklore"
+        },
+        {
+            "geo": [
+                "51.0678307",
+                "3.7290914"
+            ],
+            "id": "3067",
+            "type": "location",
+            "classref": 0,
+            "title": "40",
+            "uri": "/o/location/Fluvial/3067",
+            "content": "Bruin volks- en schipperscaf&eacute;\n",
+            "nameid": "Fluvial"
+        },
+        {
+            "geo": [
+                "51.0520332",
+                "3.7178544"
+            ],
+            "id": "3066",
+            "type": "location",
+            "classref": 0,
+            "title": "26",
+            "uri": "/o/location/Fatima/3066",
+            "content": "Eigenzinnig alternatief volkscaf&eacute; met trouwe alternatieve klandizie",
+            "nameid": "Fatima"
+        },
+        {
+            "geo": [
+                "51.0543822",
+                "3.7235031"
+            ],
+            "id": "3065",
+            "type": "location",
+            "classref": 0,
+            "title": "119",
+            "uri": "/o/location/Farfoel/3065",
+            "content": "Eigenzinnig huiskamercaf&eacute; met afrikaanse kunst en arrogante caf&eacute;baas die alles beter weet",
+            "nameid": "Farfoel"
+        },
+        {
+            "geo": [
+                "51.0512472",
+                "3.7289805"
+            ],
+            "id": "3064",
+            "type": "location",
+            "classref": 0,
+            "title": "292",
+            "uri": "/o/location/Faja+lobi/3064",
+            "content": "Huiselijk ingericht surinaams-belgisch eet- en praatcaf&eacute;, ook bed & breakfast",
+            "nameid": "Faja lobi"
+        },
+        {
+            "geo": [
+                "51.0462002",
+                "3.7394651"
+            ],
+            "id": "3063",
+            "type": "location",
+            "classref": 0,
+            "title": "312",
+            "uri": "/o/location/Fabula+rasa/3063",
+            "content": "Sympathiek en bruin eetcaf&eacute;, &eacute;&eacute;n van de weinige caf&eacute;s waar studenten en buurtbewoners goed mengelen",
+            "nameid": "Fabula rasa"
+        },
+        {
+            "geo": [
+                "51.0611723",
+                "3.7262977"
+            ],
+            "id": "3062",
+            "type": "location",
+            "classref": 0,
+            "title": "64",
+            "uri": "/o/location/Evergreen/3062",
+            "content": "Snooker-taverne\n",
+            "nameid": "Evergreen"
+        },
+        {
+            "geo": [
+                "51.0663148",
+                "3.7290811"
+            ],
+            "id": "3061",
+            "type": "location",
+            "classref": 0,
+            "title": "44",
+            "uri": "/o/location/Es+es/3061",
+            "content": "Rustig turks praatcaf&eacute; waar vooral koffie en thee gedronken wordt bij het kaarten",
+            "nameid": "Es es"
+        },
+        {
+            "geo": [
+                "51.054189",
+                "3.7228277"
+            ],
+            "id": "3060",
+            "type": "location",
+            "classref": 0,
+            "title": "124",
+            "uri": "/o/location/Ero+swing/3060",
+            "content": "Sympathiek paaldanscaf&eacute;, al 11 jaar bij petra. ideaal voor vrijgezellen en vrijgevochten koppels",
+            "nameid": "Ero swing"
+        },
+        {
+            "geo": [
+                "51.0641716",
+                "3.7290876"
+            ],
+            "id": "3059",
+            "type": "location",
+            "classref": 0,
+            "title": "48",
+            "uri": "/o/location/Emirdag/3059",
+            "content": "Turks praatcaf&eacute;",
+            "nameid": "Emirdag"
+        },
+        {
+            "geo": [
+                "51.0496944",
+                "3.7320357"
+            ],
+            "id": "3058",
+            "type": "location",
+            "classref": 0,
+            "title": "299",
+            "uri": "/o/location/El+negocito/3058",
+            "content": "Eigenzinnig chileens eet- en muziekcaf&eacute; met elke week verschillende optredens, thuisbasis van de gentse jazzscene",
+            "nameid": "El negocito"
+        },
+        {
+            "geo": [
+                "51.064352",
+                "3.733869"
+            ],
+            "id": "3057",
+            "type": "location",
+            "classref": 0,
+            "title": "52",
+            "uri": "/o/location/El+amigo/3057",
+            "content": "Groot eet- en karaokecaf&eacute; met sympathieke filipijnse caf&eacute;bazin",
+            "nameid": "El amigo"
+        },
+        {
+            "geo": [
+                "51.0396404",
+                "3.7257565"
+            ],
+            "id": "3056",
+            "type": "location",
+            "classref": 0,
+            "title": "248",
+            "uri": "/o/location/Eclips/3056",
+            "content": "Studenten- en swingcaf&eacute;\n",
+            "nameid": "Eclips"
+        },
+        {
+            "geo": [
+                "51.0540329",
+                "3.7312203"
+            ],
+            "id": "3055",
+            "type": "location",
+            "classref": 0,
+            "title": "182",
+            "uri": "/o/location/Dynasty/3055",
+            "content": "Groot volkscaf&eacute; met pool en tapbiljart \n",
+            "nameid": "Dynasty"
+        },
+        {
+            "geo": [
+                "51.0509426",
+                "3.7042551"
+            ],
+            "id": "3054",
+            "type": "location",
+            "classref": 0,
+            "title": "5",
+            "uri": "/o/location/Dikke+boom/3054",
+            "content": "Volkscaf&eacute; met jukebox\n",
+            "nameid": "Dikke boom"
+        },
+        {
+            "geo": [
+                "51.0542356",
+                "3.7225596"
+            ],
+            "id": "3053",
+            "type": "location",
+            "classref": 0,
+            "title": "122",
+            "uri": "/o/location/Dic%83/3053",
+            "content": "Dans- en nachtcaf&eacute;\n",
+            "nameid": "Dic"
+        },
+        {
+            "geo": [
+                "51.0487459",
+                "3.7312478"
+            ],
+            "id": "3052",
+            "type": "location",
+            "classref": 0,
+            "title": "294",
+            "uri": "/o/location/Deus/3052",
+            "content": "Bier-, wijn- en eetcaf&eacute; in open lichtbruin dennenhouten interieur",
+            "nameid": "Deus"
+        },
+        {
+            "geo": [
+                "51.0508181",
+                "3.7023854"
+            ],
+            "id": "3031",
+            "type": "location",
+            "classref": 0,
+            "title": "1",
+            "uri": "/o/location/De+spinnekop/3031",
+            "content": "Bruine kroeg en goedkoop eetcaf&eacute; \nvoor alternatievelingen en krullenbollen",
+            "nameid": "De spinnekop"
+        },
+        {
+            "geo": [
+                "51.0599496",
+                "3.7289046"
+            ],
+            "id": "3030",
+            "type": "location",
+            "classref": 0,
+            "title": "90",
+            "uri": "/o/location/De+soupape/3030",
+            "content": "Dagcaf&eacute;-cafetaria van het miat (museum voor industri&euml;le archeologie en textiel) met buurtvolk en museumbezoekers",
+            "nameid": "De soupape"
+        },
+        {
+            "geo": [
+                "51.0557689",
+                "3.7273884"
+            ],
+            "id": "3029",
+            "type": "location",
+            "classref": 0,
+            "title": "169",
+            "uri": "/o/location/De+roode+piano/3029",
+            "content": "Ambiance- en nachtcaf&eacute;, alleen open in het weekend en op feestdagen vanaf 22u tot vroeg in de ochtend\n",
+            "nameid": "De roode piano"
+        },
+        {
+            "geo": [
+                "51.0565734",
+                "3.7260191"
+            ],
+            "id": "3008",
+            "type": "location",
+            "classref": 0,
+            "title": "151",
+            "uri": "/o/location/De+dulle+griet/3008",
+            "content": "Bruin bier- en toeristencaf&eacute; in een oud interieur\n",
+            "nameid": "De dulle griet"
+        },
+        {
+            "geo": [
+                "51.0678307",
+                "3.7290914"
+            ],
+            "id": "3007",
+            "type": "location",
+            "classref": 0,
+            "title": "237",
+            "uri": "/o/location/De+dolle+koe/3007",
+            "content": "Bruin studentencaf&eacute; met houten bankskes\n",
+            "nameid": "De dolle koe"
+        },
+        {
+            "geo": [
+                "51.0566299",
+                "3.7260819"
+            ],
+            "id": "3006",
+            "type": "location",
+            "classref": 0,
+            "title": "152",
+            "uri": "/o/location/De+croone/3006",
+            "content": "Klein bruin sympathiek toogcaf&eacute;\n",
+            "nameid": "De croone"
+        },
+        {
+            "geo": [
+                "51.039947",
+                "3.7256754"
+            ],
+            "id": "3005",
+            "type": "location",
+            "classref": 0,
+            "title": "245",
+            "uri": "/o/location/De+coulissen/3005",
+            "content": "Dans- en studentencaf&eacute; waarvan ook een gelijknamige zaak bestaat in brugge",
+            "nameid": "De coulissen"
+        },
+        {
+            "geo": [
+                "51.061249",
+                "3.734386"
+            ],
+            "id": "3004",
+            "type": "location",
+            "classref": 0,
+            "title": "62",
+            "uri": "/o/location/De+centrale/3004",
+            "content": "Caf&eacute; van de centrale, organisator van diverse podiumkunsten en evenementen, met diversiteit als uitgangspunt",
+            "nameid": "De centrale"
+        },
+        {
+            "geo": [
+                "51.0402797",
+                "3.7296811"
+            ],
+            "id": "3003",
+            "type": "location",
+            "classref": 0,
+            "title": "287",
+            "uri": "/o/location/De+brouwzaele/3003",
+            "content": "Bier- en eetcaf&eacute; waar ge een pint drinkt na de film\n",
+            "nameid": "De brouwzaele"
+        },
+        {
+            "geo": [
+                "51.0545126",
+                "3.7255698"
+            ],
+            "id": "3002",
+            "type": "location",
+            "classref": 0,
+            "title": "141",
+            "uri": "/o/location/De+belleman+pub/3002",
+            "content": "Pub - eetcaf&eacute;\n",
+            "nameid": "De belleman pub"
+        },
+        {
+            "geo": [
+                "51.0550472",
+                "3.7209235"
+            ],
+            "id": "3001",
+            "type": "location",
+            "classref": 0,
+            "title": "115",
+            "uri": "/o/location/De+bank/3001",
+            "content": "Groot moderne bar met lounge-restaurant met twee terrassen, zowel aan de toeristische graslei als aan de korenmarkt",
+            "nameid": "De bank"
+        },
+        {
+            "geo": [
+                "51.048076",
+                "3.7281039"
+            ],
+            "id": "3000",
+            "type": "location",
+            "classref": 0,
+            "title": "210",
+            "uri": "/o/location/D%83p%3Fcentral/3000",
+            "content": "Schoon en ouderwets ingericht caf&eacute; van pol? pol?",
+            "nameid": "Dp?central"
+        },
+        {
+            "geo": [
+                "51.0548502",
+                "3.721854"
+            ],
+            "id": "2999",
+            "type": "location",
+            "classref": 0,
+            "title": "116",
+            "uri": "/o/location/Damberd/2999",
+            "content": "Legendarisch gents intercultureel jazzcaf&eacute;, al 30 jaar een vaste waarde",
+            "nameid": "Damberd"
+        },
+        {
+            "geo": [
+                "51.0636919",
+                "3.7391792"
+            ],
+            "id": "2998",
+            "type": "location",
+            "classref": 0,
+            "title": "188",
+            "uri": "/o/location/Culture+club/2998",
+            "content": "Trendy club-discotheek met internationale allure\n",
+            "nameid": "Culture club"
+        },
+        {
+            "geo": [
+                "51.0398274",
+                "3.7256614"
+            ],
+            "id": "2997",
+            "type": "location",
+            "classref": 0,
+            "title": "264",
+            "uri": "/o/location/Cuba+libre/2997",
+            "content": "Nachtclub met buitenwippers, voor studenten, nachtbeesten, en echte feestgangers",
+            "nameid": "Cuba libre"
+        },
+        {
+            "geo": [
+                "51.0486978",
+                "3.7322185"
+            ],
+            "id": "2996",
+            "type": "location",
+            "classref": 0,
+            "title": "305",
+            "uri": "/o/location/Cookin/2996",
+            "content": "Strakke lounge- en wijnbar bij het gelijknamig restaurant\n",
+            "nameid": "Cookin"
+        },
+        {
+            "geo": [
+                "51.0391028",
+                "3.7259702"
+            ],
+            "id": "2995",
+            "type": "location",
+            "classref": 0,
+            "title": "275",
+            "uri": "/o/location/Confrater/2995",
+            "content": "Studentencaf&eacute;",
+            "nameid": "Confrater"
+        },
+        {
+            "geo": [
+                "51.0539312",
+                "3.730123"
+            ],
+            "id": "2994",
+            "type": "location",
+            "classref": 0,
+            "title": "181",
+            "uri": "/o/location/Cocteau/2994",
+            "content": "Fuif- of feestzaal in een prachtige oude zaal, enkel te huur voor feestjes",
+            "nameid": "Cocteau"
+        },
+        {
+            "geo": [
+                "51.0678307",
+                "3.7290914"
+            ],
+            "id": "2993",
+            "type": "location",
+            "classref": 0,
+            "title": "42",
+            "uri": "/o/location/Cocktail/2993",
+            "content": "Marokkaans - arabisch volkscaf&eacute; met podium, caf&eacute; is over te nemen",
+            "nameid": "Cocktail"
+        },
+        {
+            "geo": [
+                "51.0552108",
+                "3.723794"
+            ],
+            "id": "2992",
+            "type": "location",
+            "classref": 0,
+            "title": "148",
+            "uri": "/o/location/Club+central/2992",
+            "content": "Grote salsabar met lounge, cocktailbar en imposante \nmiddeleeuwse danskelder cirq central (kelder is enkel te huur)",
+            "nameid": "Club central"
+        },
+        {
+            "geo": [
+                "51.0504304",
+                "3.7299068"
+            ],
+            "id": "3009",
+            "type": "location",
+            "classref": 0,
+            "title": "293",
+            "uri": "/o/location/De+gentenaar/3009",
+            "content": "Gents praatcaf&eacute;\n",
+            "nameid": "De gentenaar"
+        },
+        {
+            "geo": [
+                "51.0414479",
+                "3.7286353"
+            ],
+            "id": "3010",
+            "type": "location",
+            "classref": 0,
+            "title": "280",
+            "uri": "/o/location/De+geus+van+gent/3010",
+            "content": "Praatcaf&eacute; in het geuzenhuis met gezellige zetels, ontmoetingsplaats voor vrijzinnigen (zowel gelijk- als andersgezinden)",
+            "nameid": "De geus van gent"
+        },
+        {
+            "geo": [
+                "51.0451795",
+                "3.7266165"
+            ],
+            "id": "3011",
+            "type": "location",
+            "classref": 0,
+            "title": "223",
+            "uri": "/o/location/De+hoeve/3011",
+            "content": "Studentencaf&eacute; in een oud fermettehuis\n",
+            "nameid": "De hoeve"
+        },
+        {
+            "geo": [
+                "51.0543036",
+                "3.7317957"
+            ],
+            "id": "3028",
+            "type": "location",
+            "classref": 0,
+            "title": "185",
+            "uri": "/o/location/De+roerkuip/3028",
+            "content": "Eclectisch muziek- en danscaf&eacute; met verhoogde danszaal",
+            "nameid": "De roerkuip"
+        },
+        {
+            "geo": [
+                "51.0385872",
+                "3.7292886"
+            ],
+            "id": "3027",
+            "type": "location",
+            "classref": 0,
+            "title": "251",
+            "uri": "/o/location/De+rector/3027",
+            "content": "Grote fuifzaal te huur voor feesten\n",
+            "nameid": "De rector"
+        },
+        {
+            "geo": [
+                "51.0543932",
+                "3.717393"
+            ],
+            "id": "3026",
+            "type": "location",
+            "classref": 0,
+            "title": "29",
+            "uri": "/o/location/De+poel/3026",
+            "content": "Volkscaf&eacute;",
+            "nameid": "De poel"
+        },
+        {
+            "geo": [
+                "51.0478718",
+                "3.7272442"
+            ],
+            "id": "3025",
+            "type": "location",
+            "classref": 0,
+            "title": "207",
+            "uri": "/o/location/De+ploeg/3025",
+            "content": "Muziek- en poolbar voor studenten, al 25 jaar met caf&eacute;baas danny",
+            "nameid": "De ploeg"
+        },
+        {
+            "geo": [
+                "51.0390353",
+                "3.7298681"
+            ],
+            "id": "3024",
+            "type": "location",
+            "classref": 0,
+            "title": "285",
+            "uri": "/o/location/De+planck/3024",
+            "content": "Binnenschip omgevormd tot praat- en biercaf&eacute;, recht tegenover cinema kinepolis, met groot zomerterras op \nhet dek",
+            "nameid": "De planck"
+        },
+        {
+            "geo": [
+                "51.0552444",
+                "3.7204003"
+            ],
+            "id": "3023",
+            "type": "location",
+            "classref": 0,
+            "title": "107",
+            "uri": "/o/location/De+onvrije+schipper/3023",
+            "content": "Eet- en cocktailcaf&eacute; in de gewelfde kelder van het voormalige gildenhuis van de onvrije schippers",
+            "nameid": "De onvrije schipper"
+        },
+        {
+            "geo": [
+                "51.0420575",
+                "3.739475"
+            ],
+            "id": "3022",
+            "type": "location",
+            "classref": 0,
+            "title": "311",
+            "uri": "/o/location/De+nieuwe+reinaard/3022",
+            "content": "Buurtcaf&eacute; met biljart\n",
+            "nameid": "De nieuwe reinaard"
+        },
+        {
+            "geo": [
+                "51.0583424",
+                "3.7263791"
+            ],
+            "id": "3021",
+            "type": "location",
+            "classref": 0,
+            "title": "92",
+            "uri": "/o/location/De+nauwe+zak/3021",
+            "content": "Bruin eigenzinnig nacht- en muziekcafeetje bij chris ",
+            "nameid": "De nauwe zak"
+        },
+        {
+            "geo": [
+                "51.0566952",
+                "3.7201534"
+            ],
+            "id": "3020",
+            "type": "location",
+            "classref": 0,
+            "title": "69",
+            "uri": "/o/location/De+muze/3020",
+            "content": "Bruin praatcafeetje met kunst aan de muren\n",
+            "nameid": "De muze"
+        },
+        {
+            "geo": [
+                "51.0547202",
+                "3.7218151"
+            ],
+            "id": "3019",
+            "type": "location",
+            "classref": 0,
+            "title": "118",
+            "uri": "/o/location/De+maecht+van+ghent/3019",
+            "content": "Weekend- en ambiancecaf&eacute;\n",
+            "nameid": "De maecht van ghent"
+        },
+        {
+            "geo": [
+                "51.0678307",
+                "3.7290914"
+            ],
+            "id": "3018",
+            "type": "location",
+            "classref": 0,
+            "title": "33",
+            "uri": "/o/location/De+limiet/3018",
+            "content": "Studentencaf&eacute; met iers western-decor\n",
+            "nameid": "De limiet"
+        },
+        {
+            "geo": [
+                "51.039224",
+                "3.7330793"
+            ],
+            "id": "3017",
+            "type": "location",
+            "classref": 0,
+            "title": "290",
+            "uri": "/o/location/De+leeuw/3017",
+            "content": "Buurtcaf&eacute; met pooltafel en groot scherm voor voetbal\n",
+            "nameid": "De leeuw"
+        },
+        {
+            "geo": [
+                "51.0552305",
+                "3.722011"
+            ],
+            "id": "3016",
+            "type": "location",
+            "classref": 0,
+            "title": "113",
+            "uri": "/o/location/De+kuip+van+gent/3016",
+            "content": "Brasserie - praatcaf&eacute; met terras zowel 's zomers als 's winters\n",
+            "nameid": "De kuip van gent"
+        },
+        {
+            "geo": [
+                "51.0433209",
+                "3.7265204"
+            ],
+            "id": "3015",
+            "type": "location",
+            "classref": 0,
+            "title": "236",
+            "uri": "/o/location/De+kroon/3015",
+            "content": "Volkscaf&eacute; met verse soep en cervela's\n",
+            "nameid": "De kroon"
+        },
+        {
+            "geo": [
+                "51.0513927",
+                "3.7061223"
+            ],
+            "id": "3014",
+            "type": "location",
+            "classref": 0,
+            "title": "6",
+            "uri": "/o/location/De+koornbloem/3014",
+            "content": "Volkscaf&eacute;-vzw met tapbiljart, cafetaria van de achterliggende sportzaal",
+            "nameid": "De koornbloem"
+        },
+        {
+            "geo": [
+                "51.0419343",
+                "3.718945"
+            ],
+            "id": "3013",
+            "type": "location",
+            "classref": 0,
+            "title": "193",
+            "uri": "/o/location/De+karper/3013",
+            "content": "Groot sport- en studentencaf&eacute; met wielerwedstrijden en voetbal op groot scherm",
+            "nameid": "De karper"
+        },
+        {
+            "geo": [
+                "51.0678307",
+                "3.7290914"
+            ],
+            "id": "3012",
+            "type": "location",
+            "classref": 0,
+            "title": "9",
+            "uri": "/o/location/De+hopduvel/3012",
+            "content": "Bier- en eetcaf&eacute; dat een enorme bierkaart heeft met een 250-tal bieren",
+            "nameid": "De hopduvel"
+        },
+        {
+            "geo": [
+                "51.0583639",
+                "3.7263978"
+            ],
+            "id": "2991",
+            "type": "location",
+            "classref": 0,
+            "title": "93",
+            "uri": "/o/location/Club+1847/2991",
+            "content": "Afro-latino cocktailbar - danscaf&eacute; - nachtclub met tropische ambiance en zwoele muziek, opent pas vanaf 21u",
+            "nameid": "Club 1847"
+        },
+        {
+            "minzoom": 17,
+            "geo": [
+                "51.056525",
+                "3.727603"
+            ],
+            "id": "79",
+            "type": "location.landmark",
+            "classref": 0,
+            "title": "Sint-Jacobs",
+            "content": "De kerk met de platte toren<br>",
+            "nameid": "Sint-Jacobs",
+            "ico": "http://www.cafeplan.be/public.img?id=64&sze=35.0",
+            "isize": [
+                35,
+                60
+            ],
+            "point": [
+                17,
+                60
+            ]
+        },
+        {
+            "minzoom": 17,
+            "geo": [
+                "51.053926",
+                "3.722895"
+            ],
+            "id": "3239",
+            "type": "location.landmark",
+            "classref": 0,
+            "title": "Sint-Niklaaskerk",
+            "content": "Aan de korenmarkt",
+            "nameid": "Sint-Niklaaskerk",
+            "ico": "http://www.cafeplan.be/public.img?id=220&sze=35.0",
+            "isize": [
+                35,
+                35
+            ],
+            "point": [
+                17,
+                35
+            ]
+        },
+        {
+            "minzoom": 17,
+            "geo": [
+                "Volledig scherm 51.053521",
+                "3.719634"
+            ],
+            "id": "3238",
+            "type": "location.landmark",
+            "classref": 0,
+            "title": "Sint-Michielskerk",
+            "content": "De Gentse kerk zonder toren",
+            "nameid": "Sint-Michielskerk",
+            "ico": "http://www.cafeplan.be/public.img?id=219&sze=35.0",
+            "isize": [
+                35,
+                35
+            ],
+            "point": [
+                17,
+                35
+            ]
+        },
+        {
+            "minzoom": 17,
+            "geo": [
+                "51.052948",
+                "3.727005"
+            ],
+            "id": "3237",
+            "type": "location.landmark",
+            "classref": 0,
+            "title": "Sint-Baafskathedraal",
+            "content": "Alwaar het Lam Gods hangt, of toch bijna..",
+            "nameid": "Sint-Baafskathedraal",
+            "ico": "http://www.cafeplan.be/public.img?id=218&sze=35.0",
+            "isize": [
+                35,
+                35
+            ],
+            "point": [
+                17,
+                35
+            ]
+        },
+        {
+            "minzoom": 17,
+            "geo": [
+                "51.048878",
+                "3.734898"
+            ],
+            "id": "3236",
+            "type": "location.landmark",
+            "classref": 0,
+            "title": "Sint-Annakerk",
+            "content": "De kerk, aan Sint-Anna, logisch toch",
+            "nameid": "Sint-Annakerk",
+            "ico": "http://www.cafeplan.be/public.img?id=217&sze=35.0",
+            "isize": [
+                35,
+                35
+            ],
+            "point": [
+                17,
+                35
+            ]
+        },
+        {
+            "minzoom": 17,
+            "geo": [
+                "51.060416",
+                "3.713138"
+            ],
+            "id": "3235",
+            "type": "location.landmark",
+            "classref": 0,
+            "title": "Het Rabot",
+            "content": "Scheune!",
+            "nameid": "Het Rabot",
+            "ico": "http://www.cafeplan.be/public.img?id=216&sze=35.0",
+            "isize": [
+                35,
+                35
+            ],
+            "point": [
+                17,
+                35
+            ]
+        },
+        {
+            "minzoom": 17,
+            "geo": [
+                "51.057094",
+                "3.720621"
+            ],
+            "id": "3234",
+            "type": "location.landmark",
+            "classref": 0,
+            "title": "Gravesteen",
+            "content": "Ridders en jonkvrouwen allerhande, verenigt u!",
+            "nameid": "Gravesteen",
+            "ico": "http://www.cafeplan.be/public.img?id=215&sze=35.0",
+            "isize": [
+                35,
+                35
+            ],
+            "point": [
+                17,
+                35
+            ]
+        },
+        {
+            "minzoom": 17,
+            "geo": [
+                "51.05035",
+                "3.703369"
+            ],
+            "id": "3233",
+            "type": "location.landmark",
+            "classref": 0,
+            "title": "Ekkergemkerk",
+            "content": "Vlakbij de flikken, ideaal dus om eens te biechten",
+            "nameid": "Ekkergemkerk",
+            "ico": "http://www.cafeplan.be/public.img?id=214&sze=35.0",
+            "isize": [
+                35,
+                35
+            ],
+            "point": [
+                17,
+                35
+            ]
+        },
+        {
+            "minzoom": 17,
+            "geo": [
+                "51.052004",
+                "3.728512"
+            ],
+            "id": "3232",
+            "type": "location.landmark",
+            "classref": 0,
+            "title": "Gerard de Duivelsteen",
+            "content": "Het Gentse archief",
+            "nameid": "Gerard de Duivelsteen",
+            "ico": "http://www.cafeplan.be/public.img?id=213&sze=35.0",
+            "isize": [
+                35,
+                35
+            ],
+            "point": [
+                17,
+                35
+            ]
+        },
+        {
+            "minzoom": 17,
+            "geo": [
+                "51.053751",
+                "3.725095"
+            ],
+            "id": "3231",
+            "type": "location.landmark",
+            "classref": 0,
+            "title": "Belfort",
+            "content": "Brand!",
+            "nameid": "Belfort",
+            "ico": "http://www.cafeplan.be/public.img?id=212&sze=35.0",
+            "isize": [
+                35,
+                35
+            ],
+            "point": [
+                17,
+                35
+            ]
+        },
+        {
+            "minzoom": 17,
+            "geo": [
+                "51.056949",
+                "3.712285"
+            ],
+            "id": "3230",
+            "type": "location.landmark",
+            "classref": 0,
+            "title": "Begijnhofkerk",
+            "content": "Om u van alle zonden te ontdoen",
+            "nameid": "Begijnhofkerk",
+            "ico": "http://www.cafeplan.be/public.img?id=211&sze=35.0",
+            "isize": [
+                35,
+                35
+            ],
+            "point": [
+                17,
+                35
+            ]
+        },
+        {
+            "minzoom": 17,
+            "geo": [
+                "51.044957",
+                "3.725269"
+            ],
+            "id": "3229",
+            "type": "location.landmark",
+            "classref": 0,
+            "title": "Boekentoren",
+            "content": "Studeren zeg ik u!",
+            "nameid": "Boekentoren",
+            "ico": "http://www.cafeplan.be/public.img?id=210&sze=35.0",
+            "isize": [
+                35,
+                35
+            ],
+            "point": [
+                17,
+                35
+            ]
+        },
+        {
+            "minzoom": 17,
+            "geo": [
+                "51.049689",
+                "3.720663"
+            ],
+            "id": "115",
+            "type": "location.landmark",
+            "classref": 0,
+            "title": "Oud Justitiepaleis",
+            "content": "Aan de oevers van de..",
+            "nameid": "Oud Justitiepaleis",
+            "ico": "http://www.cafeplan.be/public.img?id=65&sze=35.0",
+            "isize": [
+                35,
+                26
+            ],
+            "point": [
+                17,
+                26
+            ]
+        },
+        {
+            "minzoom": 17,
+            "geo": [
+                "51.042844",
+                "3.726811"
+            ],
+            "id": "3240",
+            "type": "location.landmark",
+            "classref": 0,
+            "title": "Sint-Pietersabdij",
+            "content": "Op het Sint-Pietersplein, aan het einde van de Sint-Pietersnieuwstraat",
+            "nameid": "Sint-Pietersabdij",
+            "ico": "http://www.cafeplan.be/public.img?id=221&sze=35.0",
+            "isize": [
+                35,
+                35
+            ],
+            "point": [
+                17,
+                35
+            ]
+        }
+    ]
+}
