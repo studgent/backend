@@ -1,7 +1,8 @@
 {
-	"name": "laravel/laravel",
-	"description": "The Laravel Framework.",
-	"keywords": ["framework", "laravel"],
+	"name": "studgent/backend",
+	"description": "Backend framework for the StudGent Android app.",
+	"keywords": ["framework", "backend", "REST API"],
+    "homepage": "http://ahlun.be",
 	"license": "MIT",
 	"require": {
 		"laravel/framework": "4.1.*"
@@ -27,7 +28,17 @@
 		],
 		"post-create-project-cmd": [
 			"php artisan key:generate"
-		]
+		],
+        "post-install-cmd": [
+            "php artisan optimize",
+            "php artisan migrate:install",
+            "php artisan migrate",
+            "php artisan db:seed"
+        ],
+        "post-update-cmd": [
+            "php artisan optimize",
+            "php artisan migrate"
+        ]
 	},
 	"config": {
 		"preferred-install": "dist"
