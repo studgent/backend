@@ -11,7 +11,7 @@ class DatabaseSeeder extends Seeder {
 	{
 		Eloquent::unguard();
 
-		$this->call('CafeTableSeeder');
+		$this->call('PoITableSeeder');
 	}
 
 }

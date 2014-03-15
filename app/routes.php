@@ -11,10 +11,10 @@
 |
 */
 
-Route::resource('cafes', 'CafeController');
-Route::get('cafe/page/{perpage}/{page}', 'CafeController@page');
-Route::get('cafe/id/{id}', 'CafeController@show');
-Route::get('cafe/name/{keyword}', 'CafeController@name');
+Route::resource('pointsofintrests', 'PoIController');
+Route::get('poi/page/{perpage}/{page}', 'PoIController@page');
+Route::get('poi/id/{id}', 'PoIController@show');
+Route::get('poi/name/{keyword}', 'PoIController@name');
 
 App::before(function(){
     // The (in)famous catch-all

@@ -4,7 +4,7 @@
  * This class seeds the back-end with several definitions with different source types.
  */
 
-class CafeTableSeeder extends Seeder {
+class PoITableSeeder extends Seeder {
 
     /**
      * Run the database seeds.
@@ -16,14 +16,14 @@ class CafeTableSeeder extends Seeder {
         Eloquent::unguard();
 
         // Add the json files
-        $this->seedJson();
+        $this->seedCafes();
 
     }
 
     /**
      * Seed the JSON files
      */
-    private function seedJson(){
+    private function seedCafes(){
 
         $file = __DIR__ 
                 . '/../../storage/data/json/' 
@@ -37,7 +37,8 @@ class CafeTableSeeder extends Seeder {
         $added = false;
         foreach ($json as $root => $cafes) {
             foreach ($cafes as $key => $value) {
-                $cafe = new Cafe;
+                $cafe = new PoI;
+                $cafe->type = 'cafe';
 
                 if( array_key_exists('geo', $value) ){
                     $cafe->latitude = $value['geo'][0];
