@@ -1,9 +1,9 @@
 <?php
 
-class CafeController extends \BaseController {
+class PoIController extends \BaseController {
 
 	public function page($perpage, $page){
-    	$results = Cafe::forPage($page, $perpage)->get();
+    	$results = PoI::forPage($page, $perpage)->get();
 		return $results->toJson();
 	}
 
@@ -14,7 +14,7 @@ class CafeController extends \BaseController {
 	 */
 	public function index()
 	{
-		return Cafe::all();
+		return PoI::all();
 	}
 
 	/**
@@ -45,7 +45,7 @@ class CafeController extends \BaseController {
 	 */
 	public function show($id)
 	{
-		return Cafe::find($id);
+		return PoI::find($id);
 	}
 
 
@@ -57,7 +57,7 @@ class CafeController extends \BaseController {
 	 */
 	public function name($keyword)
 	{
-		return Cafe::where('name', 'LIKE', '%'.$keyword.'%')->get();
+		return PoI::where('name', 'LIKE', '%'.$keyword.'%')->get();
 	}
 
 	/**

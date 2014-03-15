@@ -3,7 +3,7 @@
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Database\Migrations\Migration;
 
-class CreateCafeTable extends Migration {
+class CreatePoITable extends Migration {
 
 	/**
 	 * Run the migrations.
@@ -12,13 +12,14 @@ class CreateCafeTable extends Migration {
 	 */
 	public function up()
 	{
-		Schema::create('cafe', function(Blueprint $table)
+		Schema::create('poi', function(Blueprint $table)
 		{
 			$table->increments('id');
-			$table->string('latitude', 255);
-			$table->string('longitude', 255);
+			$table->string('type', 255);
 			$table->string('name', 255);
 			$table->string('details', 255)->nullable();
+			$table->string('latitude', 255);
+			$table->string('longitude', 255);
 			$table->string('uri', 255)->nullable();
 			$table->integer('cafeplan_id')->nullable();
 			$table->string('cafeplan_uri', 255)->nullable();
@@ -34,7 +35,7 @@ class CreateCafeTable extends Migration {
 	public function down()
 	{
 		// Drop the table
-		Schema::drop('cafe');
+		Schema::drop('poi');
 	}
 
 }
