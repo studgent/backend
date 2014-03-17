@@ -22,6 +22,7 @@ Route::get('cal/page/{perpage}/{page}', 'CalendarController@page');
 Route::get('cal/', 'CalendarController@index');
 Route::get('cal/id/{id}', 'CalendarController@show');
 Route::get('cal/name/{keyword}', 'CalendarController@name');
+Route::get('cal/all/', 'CalendarController@all');
 
 App::before(function(){
     // The (in)famous catch-all

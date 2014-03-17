@@ -4,7 +4,7 @@ class CalendarController extends \BaseController {
 
 
 	public function page($perpage, $page){
-    	$results = Calendar::forPage($page, $perpage)->get();
+    	$results = Calendar::where('date_from', '>=', date('Y-m-d'))->orderBy('date_from', 'asc')->forPage($page, $perpage)->get();
 		return $results->toJson();
 	}
 
@@ -14,6 +14,12 @@ class CalendarController extends \BaseController {
 	 * @return Response
 	 */
 	public function index()
+	{
+		return Calendar::where('date_from', '>=', date('Y-m-d'))->orderBy('date_from', 'asc')->get();
+	}
+
+
+	public function all()
 	{
 		return Calendar::all();
 	}
@@ -58,7 +64,7 @@ class CalendarController extends \BaseController {
 	 */
 	public function name($keyword)
 	{
-		return Calendar::where('name', 'LIKE', '%'.$keyword.'%')->get();
+		return Calendar::where('date_from', '>=', date('Y-m-d'))->where('name', 'LIKE', '%'.$keyword.'%')->orderBy('date_from', 'asc')->get();
 	}
 
 	/**
