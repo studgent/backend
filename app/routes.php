@@ -17,6 +17,12 @@ Route::get('poi/', 'PoIController@index');
 Route::get('poi/id/{id}', 'PoIController@show');
 Route::get('poi/name/{keyword}', 'PoIController@name');
 
+Route::resource('calendar', 'CalendarController');
+Route::get('cal/page/{perpage}/{page}', 'CalendarController@page');
+Route::get('cal/', 'CalendarController@index');
+Route::get('cal/id/{id}', 'CalendarController@show');
+Route::get('cal/name/{keyword}', 'CalendarController@name');
+
 App::before(function(){
     // The (in)famous catch-all
     //Route::any('{all}', 'BaseController@handleRequest')->where('all', '.*');

@@ -6,6 +6,8 @@ class Calendar extends Eloquent {
 								'name',
 								'details',
 								'description',
+								'date_from',
+								'date_to',
 								'contact',
 								'street',
 								'number',

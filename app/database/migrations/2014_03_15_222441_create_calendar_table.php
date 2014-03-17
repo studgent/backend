@@ -19,6 +19,8 @@ class CreateCalendarTable extends Migration {
 			$table->string('name', 255);
 			$table->string('details', 255)->nullable();
 			$table->string('description', 255)->nullable();
+			$table->date('date_from')->nullable();
+			$table->date('date_to')->nullable();
 			$table->string('contact', 255)->nullable();
 			$table->string('street', 255)->nullable();
 			$table->string('number', 255)->nullable();

@@ -1,5 +1,7 @@
 <?php
 
+use Carbon\Carbon;
+
 /**
  * This class seeds the back-end with several definitions with different source types.
  */
@@ -54,6 +56,28 @@ class CalendarTableSeeder extends Seeder {
                 if( array_key_exists('description', $value) ){
                     $cal_item->details = $value['description'];
                 }
+
+                if( array_key_exists('openinghours_short', $value) ){
+                    if (strpos($value['openinghours_short'],'>') !== false) {
+                        try {
+                            $dates = explode (" > " , $value['openinghours_short'] );
+                            $cal_item->date_from = Carbon::createFromFormat('d/m/Y', $dates[0]);
+                            $cal_item->date_to = Carbon::createFromFormat('d/m/Y', $dates[1]);
+                        } catch (Exception $e) {
+                            $this->command->info("no date found");
+                        }
+                    } else {
+                        try {
+                            var_dump($value['openinghours_short']);
+                            $cal_item->date_from = Carbon::createFromFormat('d/m/Y', $value['openinghours_short']);
+                            $cal_item->date_to = Carbon::createFromFormat('d/m/Y', $value['openinghours_short']);
+                        } catch (Exception $e) {
+                            $this->command->info("no date found");
+                        }
+                    }
+                }
+
+
                 if( array_key_exists('contact', $value) ){
                     foreach ($value['contact'] as $key2 => $val2) {
                         if( array_key_exists('contact', $val2) ){
