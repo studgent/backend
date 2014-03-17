@@ -65,7 +65,7 @@ class PoITableSeeder extends Seeder {
         if(!$added){
             $this->command->info("No JSON files have been added.");
         } else {
-            $this->command->info("JSON file sucessfully added");
+            $this->command->info("Points of Interests sucessfully added");
         }
     }
 
