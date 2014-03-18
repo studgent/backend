@@ -6,7 +6,7 @@
 	"license": "MIT",
 	"require": {
 		"laravel/framework": "4.1.*",
-		"cartalyst/sentry": "2.1.*"
+        "rcrowe/laravel-sentry": "0.2.*"
 	},
 	"autoload": {
 		"classmap": [
