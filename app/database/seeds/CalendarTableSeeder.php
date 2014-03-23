@@ -90,10 +90,10 @@ class CalendarTableSeeder extends Seeder {
                             $cal_item->number = $val2['number'];
                         }
                         if( array_key_exists('phone', $val2) ){
-                            $cal_item->number = $val2['phone'][0]['number'];
+                            $cal_item->phone = $val2['phone'][0]['number'];
                         }
                         if( array_key_exists('email', $val2) ){
-                            $cal_item->number = $val2['email'][0];
+                            $cal_item->email = $val2['email'][0];
                         }
                         if( array_key_exists('website', $val2) ){
                             $cal_item->uri = $val2['website'][0]['url'];
@@ -109,6 +109,14 @@ class CalendarTableSeeder extends Seeder {
                 if( array_key_exists('prices', $value) ){
                     $cal_item->prices = json_encode($value['prices']);
                 }
+
+                /*$geocoder = new \Geocoder\Geocoder();
+                $adapter  = new \Geocoder\HttpAdapter\GuzzleHttpAdapter();
+                $chain    = new \Geocoder\Provider\OpenStreetMapProvider($adapter);
+                $geocoder->registerProvider($chain);
+                $latlon = $geocoder->geocode($cal_item->street . ' ' . $cal_item->number . ', Ghent');
+                $cal_item->latitude = $latlon['lat'];
+                $cal_item->longitude = $latlon['lon'];*/
                 $cal_item->save();
             }
             $added = true;
