@@ -1,0 +1,25 @@
+{
+  "name": "StudGent",
+  "description": "Interactieve stadsgids voor studenten in Gent",
+  "version": "0.0.1",
+  "homepage": "http://studgent.ahlun.be",
+  "author": {
+    "name": "StudGent",
+    "email": "studgent@ahlun.be",
+    "url": "http://studgent.ahlun.be/"
+  },
+  "license": {
+    "type": "The MIT License (MIT)",
+    "url": "http://mit-license.org/"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-uglify": "~0.3.2",
+    "grunt-php": "^0.3.2",
+    "grunt-contrib-copy": "~0.5.0",
+    "grunt-csso": "~0.5.3",
+    "grunt-sass": "~0.10.0",
+    "load-grunt-tasks": "~0.3.0"
+  }
+}

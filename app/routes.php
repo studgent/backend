@@ -10,6 +10,9 @@
 | and give it the Closure to execute when that URI is requested.
 |
 */
+Route::get('/', 'SiteController@index');
+Route::get('/api', 'SiteController@api');
+Route::get('/legal', 'SiteController@legal');
 
 Route::resource('pointsofintrests', 'PoIController');
 Route::get('poi/page/{perpage}/{page}', 'PoIController@page');
