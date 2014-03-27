@@ -27,6 +27,10 @@ Route::get('cal/id/{id}', 'CalendarController@show');
 Route::get('cal/name/{keyword}', 'CalendarController@name');
 Route::get('cal/all/', 'CalendarController@all');
 
+Route::get('user/all', 'UserController@all');
+Route::get('user/show/{email}', 'UserController@show');
+Route::post('user/login/', 'UserController@login');
+
 App::before(function(){
     // The (in)famous catch-all
     //Route::any('{all}', 'BaseController@handleRequest')->where('all', '.*');

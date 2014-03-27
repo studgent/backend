@@ -8,7 +8,8 @@
 		"laravel/framework": "4.1.*",
         "rcrowe/laravel-sentry": "0.2.*",
         "guzzle/guzzle": "v3.8.1",
-		"willdurand/geocoder": "*"
+		"willdurand/geocoder": "*",
+		"fzaninotto/faker": "*"
 	},
 	"autoload": {
 		"classmap": [
