@@ -37,7 +37,7 @@ class UserTableSeeder extends Seeder {
             $user->first_name = $faker->firstName;
             $user->last_name = $faker->lastName;
             $user->password = Hash::make('qwerty');
-            $user->token = $faker->randomNumber(20);
+            $user->token = $faker->randomNumber(8);
             $user->details = $faker->text(60);
             $user->phone = $faker->phoneNumber;
             $user->save();

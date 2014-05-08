@@ -30,6 +30,14 @@ Route::get('cal/all/', 'CalendarController@all');
 Route::get('user/all', 'UserController@all');
 Route::get('user/show/{email}', 'UserController@show');
 Route::post('user/login/', 'UserController@login');
+Route::get('user/{id}/', 'UserController@find');
+
+
+Route::get('user/{id}/questions/unanswered', 'UserController@questions');
+Route::get('user/{id}/questions/answered', 'UserController@answered');
+Route::get('user/{id}/questions/answers', 'UserController@answers');
+Route::get('user/{id}/questions/all', 'UserController@allquestions');
+Route::post('user/{user_id}/questions/{question_id}', 'UserController@answer');
 
 App::before(function(){
     // The (in)famous catch-all

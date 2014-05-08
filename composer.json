@@ -9,7 +9,8 @@
         "rcrowe/laravel-sentry": "0.2.*",
         "guzzle/guzzle": "v3.8.1",
 		"willdurand/geocoder": "*",
-		"fzaninotto/faker": "*"
+		"fzaninotto/faker": "*",
+		"jenssegers/model": "*"
 	},
 	"autoload": {
 		"classmap": [

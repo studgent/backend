@@ -20,6 +20,7 @@ class CreateUserTable extends Migration {
 			$table->string('password', 255);
 			$table->string('first_name', 255);
 			$table->string('last_name', 255);
+			$table->integer('score')->default(0);
 			$table->string('details', 255)->nullable();
 			$table->string('phone', 255)->nullable();
 			$table->string('image', 255)->nullable();

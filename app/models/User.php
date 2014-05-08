@@ -27,7 +27,8 @@ class User extends Eloquent {
 								'last_name',
 								'details',
 								'phone',
-								'image');
+								'image',
+								'score');
 
 	public function friends()
     {
@@ -47,4 +48,40 @@ class User extends Eloquent {
 	    $friend = User::find($friend_id);       // find your friend, and...
 	    $friend->friends()->detach($this->id);  // remove yourself, too
 	}
+
+	public function answers()
+	{
+		$answers = $this->hasMany('Answer')->getResults();
+		return $answers;
+	}
+
+	public function questions()
+	{
+		$answers = $this->hasMany('Answer')->getResults();
+		$ids = array();
+		foreach ($answers as $answer) {
+			array_push($ids, $answer->question_id);
+		}
+		$questions = Question::whereNotIn('id', $ids)->with('choices')->get();
+		return $questions;
+	}
+
+	public function answered()
+	{
+		$answers = $this->hasMany('Answer')->getResults();
+		$ids = array();
+		foreach ($answers as $answer) {
+			array_push($ids, $answer->question_id);
+		}
+		$questions = Question::whereIn('id', $ids)->with('choices')->get();
+		return $questions;
+	}
+
+
+	public function allquestions()
+	{
+		$questions = Question::with('choices')->get();
+		return $questions;
+	}
+
 }
