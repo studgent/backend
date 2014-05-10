@@ -70,7 +70,7 @@ class UserController extends \BaseController {
 			$answer = Answer::whereRaw('question_id = ? and user_id = ?', array( $question->id, $id ) )->first();
 			if( sizeof( $answer ) >= 1 )
 			{
-				$qs->correct = ( $answer->correct == false || $answer->correct == 0 );
+				$qs->correct = ( $answer->correct == true || $answer->correct == 1 );
 				$qs->last_answer = $answer->updated_at;
 				$qs->answered = true;
 			}
