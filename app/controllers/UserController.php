@@ -124,6 +124,13 @@ class UserController extends \BaseController {
 		}
 	}
 
+	public function unfollow($user_id, $following_id)
+	{
+		$following = Following::whereRaw('user_id = ? and following_id = ?', array( $user_id, $following_id ) )->first();
+		$following->delete();
+
+	}
+
 	protected function parsefollowing($user, $following)
 	{
 		$summary = new FollowingSummary;

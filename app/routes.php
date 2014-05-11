@@ -34,6 +34,7 @@ Route::get('user/{id}/', 'UserController@find');
 
 Route::get('user/{id}/following', 'UserController@following');
 Route::post('user/{user_id}/follow/{following_id}', 'UserController@follow');
+Route::post('user/{user_id}/unfollow/{following_id}', 'UserController@unfollow');
 
 
 Route::get('user/{id}/questions/unanswered', 'UserController@questions');
