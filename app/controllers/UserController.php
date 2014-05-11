@@ -88,15 +88,22 @@ class UserController extends \BaseController {
 		$summaries = array();
 		$ids = array();
 
-		
-		foreach ($following as $follow) {
-			$summary = $this->parsefollowing($follow, true);
-			$summaries[] = $summary->toArray();
+		if ( sizeof($following) > 0 ) 
+		{
+
+			foreach ($following as $follow) {
+				$summary = $this->parsefollowing($follow, true);
+				$summaries[] = $summary->toArray();
+			}
 		}
 
-		foreach ($notfollowing as $follow) {
-			$summary = $this->parsefollowing($follow, false);
-			$summaries[] = $summary->toArray();
+		if ( sizeof($following) > 0 ) 
+		{
+
+			foreach ($notfollowing as $follow) {
+				$summary = $this->parsefollowing($follow, true);
+				$summaries[] = $summary->toArray();
+			}
 		}
 
 		return Response::json($summaries);
