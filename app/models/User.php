@@ -93,11 +93,12 @@ class User extends Eloquent {
 	public function following()
 	{
 		$following = $this->hasMany('Following', 'user_id')->with('User')->getResults();
-		$ids = array('-1');
+		$ids = array();
 		foreach ($following as $f) {
-			array_push($ids, $f->user_id);
+			array_push($ids, $f->following_id);
 		}
-		$users = User::whereIn('id', $ids)->get();
+
+		$users = sizeof($ids) > 0 ? User::whereIn('id', $ids)->get() : null;
 		return $users;
 	}
 
@@ -105,11 +106,11 @@ class User extends Eloquent {
 	public function notfollowing()
 	{
 		$following = $this->hasMany('Following', 'user_id')->with('User')->getResults();
-		$ids = array('-1');
+		$ids = array();
 		foreach ($following as $f) {
-			array_push($ids, $f->user_id);
+			array_push($ids, $f->following_id);
 		}
-		$users = User::whereNotIn('id', $ids)->get();
+		$users = sizeof($ids) > 0 ? User::whereNotIn('id', $ids)->get() : null;
 		return $users;
 	}
 
