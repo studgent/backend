@@ -32,6 +32,9 @@ Route::get('user/show/{email}', 'UserController@show');
 Route::post('user/login/', 'UserController@login');
 Route::get('user/{id}/', 'UserController@find');
 
+Route::get('user/{id}/following', 'UserController@following');
+Route::post('user/{user_id}/follow/{following_id}', 'UserController@follow');
+
 
 Route::get('user/{id}/questions/unanswered', 'UserController@questions');
 Route::get('user/{id}/questions/answered', 'UserController@answered');

@@ -90,4 +90,27 @@ class User extends Eloquent {
 		return $checkins;
 	}
 
+	public function following()
+	{
+		$following = $this->hasMany('Following', 'user_id')->with('User')->getResults();
+		$ids = array('-1');
+		foreach ($following as $f) {
+			array_push($ids, $f->user_id);
+		}
+		$users = User::whereIn('id', $ids)->get();
+		return $users;
+	}
+
+
+	public function notfollowing()
+	{
+		$following = $this->hasMany('Following', 'user_id')->with('User')->getResults();
+		$ids = array('-1');
+		foreach ($following as $f) {
+			array_push($ids, $f->user_id);
+		}
+		$users = User::whereNotIn('id', $ids)->get();
+		return $users;
+	}
+
 }

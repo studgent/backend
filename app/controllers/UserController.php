@@ -80,6 +80,58 @@ class UserController extends \BaseController {
 		}
 	}
 
+	public function following($id)
+	{
+		$user = User::find($id);
+		$following = $user->following();
+		$notfollowing = $user->notfollowing();
+		$summaries = array();
+		$ids = array();
+
+		
+		foreach ($following as $follow) {
+			$summary = $this->parsefollowing($follow, true);
+			$summaries[] = $summary->toArray();
+		}
+
+		foreach ($notfollowing as $follow) {
+			$summary = $this->parsefollowing($follow, false);
+			$summaries[] = $summary->toArray();
+		}
+
+		return Response::json($summaries);
+	}
+
+	public function follow($user_id, $following_id)
+	{
+
+		$user = User::find($user_id);
+		$friend = User::find($following_id);
+		$token = Input::get('token');
+		if ($user->token == $token)
+		{
+			$following = new Following;
+			$following->user()->associate($user);
+			$following->following()->associate($friend);
+			$following->save();
+		    return Response::json(array('status' => 'OK', 'message' => 'added to following list'), 200);
+		} 
+		else
+		{
+			return Response::json(
+				array('error' => true, 'message' => 'Unauthorized Request: Could not verify token'),
+            	401);
+		}
+	}
+
+	protected function parsefollowing($user, $following)
+	{
+		$summary = new FollowingSummary;
+		$summary->following = $following;
+		$summary->user = $user->toArray();
+		return $summary;
+	}
+
 	public function allquestions($id)
 	{
 		$user = User::find($id);
