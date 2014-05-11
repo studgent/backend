@@ -84,4 +84,10 @@ class User extends Eloquent {
 		return $questions;
 	}
 
+	public function checkins()
+	{
+		$checkins = $this->hasMany('CheckIn')->getResults();
+		return $checkins;
+	}
+
 }

@@ -46,6 +46,40 @@ class UserController extends \BaseController {
 		return User::find($id)->questions();
 	}
 
+	public function checkins($id)
+	{
+		$user = User::find($id);
+		return $user->checkins();
+	}
+
+	public function checkin($user_id, $poi_id)
+	{
+		$user = User::find($user_id);
+		$poi = PoI::find($poi_id);
+		$token = Input::get('token');
+		if ($user->token == $token)
+		{
+			$checkin = new CheckIn;
+			$checkin->user()->associate($user);
+			$checkin->poi()->associate($poi);
+			$checkin->longitude = Input::get("longitude");
+			$checkin->latitude = Input::get("latitude");
+			$checkin->message = Input::get("message");
+
+			$checkin->save();
+		    return Response::json(array('OK'), 200);
+		} 
+		else
+		{
+			return Response::json(
+				array(	'error' => true, 
+						'message' => 'Unauthorized Request: Could not verify token'
+				),
+            	401
+            );
+		}
+	}
+
 	public function allquestions($id)
 	{
 		$user = User::find($id);

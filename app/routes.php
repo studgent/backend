@@ -38,6 +38,8 @@ Route::get('user/{id}/questions/answered', 'UserController@answered');
 Route::get('user/{id}/questions/answers', 'UserController@answers');
 Route::get('user/{id}/questions/all', 'UserController@allquestions');
 Route::post('user/{user_id}/questions/{question_id}', 'UserController@answer');
+Route::get('user/{id}/checkins', 'UserController@checkins');
+Route::post('user/{user_id}/checkin/{poi_id}', 'UserController@checkin');
 
 App::before(function(){
     // The (in)famous catch-all
