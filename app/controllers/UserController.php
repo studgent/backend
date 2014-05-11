@@ -88,7 +88,7 @@ class UserController extends \BaseController {
 		$summaries = array();
 		$ids = array();
 
-		if ( sizeof($following) > 0 ) 
+		if ( count($following) > 0 ) 
 		{
 			foreach ($following as $follow) {
 				$summary = $this->parsefollowing($follow, true);
@@ -96,7 +96,7 @@ class UserController extends \BaseController {
 			}
 		}
 
-		if ( sizeof($following) > 0 ) 
+		if ( count($following) > 0 ) 
 		{
 
 			foreach ($notfollowing as $follow) {

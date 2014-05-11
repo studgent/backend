@@ -98,7 +98,7 @@ class User extends Eloquent {
 			array_push($ids, $f->following_id);
 		}
 
-		$users = sizeof($ids) > 0 ? User::whereIn('id', $ids)->get() : null;
+		$users = count($ids) > 0 ? User::whereIn('id', $ids)->get() : null;
 		return $users;
 	}
 
@@ -110,7 +110,7 @@ class User extends Eloquent {
 		foreach ($following as $f) {
 			array_push($ids, $f->following_id);
 		}
-		$users = sizeof($ids) > 0 ? User::whereNotIn('id', $ids)->get() : null;
+		$users = count($ids) > 0 ? User::whereNotIn('id', $ids)->get() : null;
 		return $users;
 	}
 
