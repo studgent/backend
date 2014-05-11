@@ -230,5 +230,39 @@
                </ul>
             </p>
         </div><!-- row -->
+        <div class="row left">
+            <h5><b>GET {{ Request::root() }}/user/{id}/checkins</b></h5>
+            <p>
+               Lijst van checkins van gebruiker
+            </p>
+            <p>
+               Query Parameters:
+               <ul>
+                  <li>{id} : id van user</li>
+               </ul>
+            </p>
+        </div><!-- row -->
+        <div class="row left">
+            <h5><b>POST {{ Request::root() }}/user/{user_id}/checkin/{poi_id}</b></h5>
+            <p>
+               Nieuwe checkin
+            </p>
+            <p>
+               Query Parameters:
+               <ul>
+                  <li>{user_id} : id van user</li>
+                  <li>{poi_id} : id van point of interest</li>
+               </ul>
+            </p>
+            <p>
+               POST Data:
+               <ul>
+                  <li>{token} : token van user (verificatie)</li>
+                  <li>{longitude} : longitude abscis van de gebruikerslocatie</li>
+                  <li>{latitude} : latitude ordinaat van de gebruikerslocatie</li>
+                  <li>{message} : bericht bij checkin</li>
+               </ul>
+            </p>
+        </div><!-- row -->
     </div>
 @stop
