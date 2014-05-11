@@ -98,7 +98,7 @@ class User extends Eloquent {
 			array_push($ids, $f->following_id);
 		}
 
-		$users = count($ids) > 0 ? User::whereIn('id', $ids)->get() : null;
+		$users = count($ids) > 0 ? User::whereIn('id', $ids)->get() : User::all();
 		return $users;
 	}
 
