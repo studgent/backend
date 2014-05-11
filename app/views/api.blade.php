@@ -219,7 +219,7 @@
                Query Parameters:
                <ul>
                   <li>{user_id} : id van user</li>
-                  <li>{question_id} : id van user</li>
+                  <li>{question_id} : id van vraag</li>
                </ul>
             </p>
             <p>
