@@ -93,7 +93,7 @@ class User extends Eloquent {
 	public function following()
 	{
 		$following = $this->hasMany('Following', 'user_id')->with('User')->getResults();
-		$ids = array();
+		$ids = array('-1');
 		foreach ($following as $f) {
 			array_push($ids, $f->following_id);
 		}

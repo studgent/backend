@@ -90,7 +90,6 @@ class UserController extends \BaseController {
 
 		if ( sizeof($following) > 0 ) 
 		{
-
 			foreach ($following as $follow) {
 				$summary = $this->parsefollowing($follow, true);
 				$summaries[] = $summary->toArray();
