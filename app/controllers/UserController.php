@@ -126,8 +126,20 @@ class UserController extends \BaseController {
 
 	public function unfollow($user_id, $following_id)
 	{
-		$following = Following::whereRaw('user_id = ? and following_id = ?', array( $user_id, $following_id ) )->first();
-		$following->delete();
+		$user = User::find($user_id);
+		$token = Input::get('token');
+		if ($user->token == $token)
+		{
+			$following = Following::whereRaw('user_id = ? and following_id = ?', array( $user_id, $following_id ) )->first();
+			$following->delete();
+		    return Response::json(array('status' => 'OK', 'message' => 'removed from following list'), 200);
+		}
+		else
+		{
+			return Response::json(
+				array('error' => true, 'message' => 'Unauthorized Request: Could not verify token'),
+            	401);
+		}
 
 	}
 
