@@ -96,9 +96,8 @@ class UserController extends \BaseController {
 			}
 		}
 
-		if ( count($following) > 0 ) 
+		if ( count($notfollowing) > 0 ) 
 		{
-
 			foreach ($notfollowing as $follow) {
 				$summary = $this->parsefollowing($follow, true);
 				$summaries[] = $summary->toArray();
