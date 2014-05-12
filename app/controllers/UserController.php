@@ -65,8 +65,9 @@ class UserController extends \BaseController {
 			$checkin->longitude = Input::get("longitude");
 			$checkin->latitude = Input::get("latitude");
 			$checkin->message = Input::get("message");
-
 			$checkin->save();
+			$user->score++;
+			$user->save();
 		    return Response::json(array('OK'), 200);
 		} 
 		else
