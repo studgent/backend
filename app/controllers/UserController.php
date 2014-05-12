@@ -220,8 +220,13 @@ class UserController extends \BaseController {
         	if($a->correct)
         	{
         		$user->score += $question->points;
+        		$message = "correct";
         	}
-		    return Response::json(array('OK'), 200);
+        	else
+        	{
+        		$message = "wrong";
+        	}
+		    return Response::json(array('status' => 'OK', 'message' => $message), 200);
 		} 
 		else
 		{
