@@ -37,7 +37,7 @@ class PoIController extends \BaseController {
 	 */
 	public function name($keyword)
 	{
-		return PoI::where('name', 'LIKE', '%'.$keyword.'%')with('checkins')->->get();
+		return PoI::where('name', 'LIKE', '%'.$keyword.'%')with('checkins')->get();
 	}
 
 }
