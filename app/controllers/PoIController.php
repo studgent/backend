@@ -3,7 +3,7 @@
 class PoIController extends \BaseController {
 
 	public function page($perpage, $page){
-    	$results = PoI::forPage($page, $perpage)->get();
+    	$results = PoI::with('checkins')->forPage($page, $perpage)->get();
 		return $results->toJson();
 	}
 
@@ -18,26 +18,6 @@ class PoIController extends \BaseController {
 	}
 
 	/**
-	 * Show the form for creating a new resource.
-	 *
-	 * @return Response
-	 */
-	public function create()
-	{
-		//
-	}
-
-	/**
-	 * Store a newly created resource in storage.
-	 *
-	 * @return Response
-	 */
-	public function store()
-	{
-		//
-	}
-
-	/**
 	 * Display the specified resource.
 	 *
 	 * @param  int  $id
@@ -45,7 +25,7 @@ class PoIController extends \BaseController {
 	 */
 	public function show($id)
 	{
-		return PoI::find($id);
+		return PoI::with('checkins')->find($id);
 	}
 
 
@@ -57,40 +37,7 @@ class PoIController extends \BaseController {
 	 */
 	public function name($keyword)
 	{
-		return PoI::where('name', 'LIKE', '%'.$keyword.'%')->get();
-	}
-
-	/**
-	 * Show the form for editing the specified resource.
-	 *
-	 * @param  int  $id
-	 * @return Response
-	 */
-	public function edit($id)
-	{
-		//
-	}
-
-	/**
-	 * Update the specified resource in storage.
-	 *
-	 * @param  int  $id
-	 * @return Response
-	 */
-	public function update($id)
-	{
-		//
-	}
-
-	/**
-	 * Remove the specified resource from storage.
-	 *
-	 * @param  int  $id
-	 * @return Response
-	 */
-	public function destroy($id)
-	{
-		//
+		return PoI::where('name', 'LIKE', '%'.$keyword.'%')with('checkins')->->get();
 	}
 
 }
