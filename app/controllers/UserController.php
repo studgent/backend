@@ -201,7 +201,7 @@ class UserController extends \BaseController {
 
 	public function answers($id)
 	{
-		return User::find($id)->answers();
+		return User::find($id)->answers()->getResults();
 	}
 
 	public function answer($user_id, $question_id)
