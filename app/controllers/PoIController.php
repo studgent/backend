@@ -14,7 +14,7 @@ class PoIController extends \BaseController {
 	 */
 	public function index()
 	{
-		return PoI::with('checkins')->get();
+		return PoI::all();
 	}
 
 	/**
