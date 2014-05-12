@@ -89,6 +89,8 @@ class QuizSeeder extends Seeder {
             $a1->question()->associate($q3);
             $a1->user()->associate($user);
             $a1->correct = true;
+            $user->score += $q3->points;
+            $user->save();
             $a1->save();
             
             $this->command->info("Answer 2 " . $user->email);
