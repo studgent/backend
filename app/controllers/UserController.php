@@ -16,7 +16,7 @@ class UserController extends \BaseController {
 
 	public function find($id)
 	{
-		return User::find($id);
+		return User::with('checkins')->fwith('answers')->find($id);
 	}
 
 	public function all()
