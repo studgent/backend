@@ -7,7 +7,7 @@ class PoI extends Eloquent {
     
     public function checkins()
     {
-        $checkins = $this->hasMany('CheckIn')->getResults();
+        $checkins = $this->hasMany('CheckIn');
         return $checkins;
     }
 }
