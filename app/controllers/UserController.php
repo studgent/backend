@@ -11,7 +11,7 @@ class UserController extends \BaseController {
 	 */
 	public function show($email)
 	{
-		return User::where('email', '=', $email)->get();
+		return User::where('email', '=', $email)->with('checkins')->with('answers')->get();
 	}
 
 	public function find($id)
