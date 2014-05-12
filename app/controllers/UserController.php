@@ -68,7 +68,7 @@ class UserController extends \BaseController {
 			$checkin->save();
 			$user->score++;
 			$user->save();
-		    return Response::json(array('OK'), 200);
+		    return Response::json(array('status' => 'OK', 'message' => 'checkin added'), 200);
 		} 
 		else
 		{
