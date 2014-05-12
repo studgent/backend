@@ -51,7 +51,7 @@ class User extends Eloquent {
 
 	public function answers()
 	{
-		$answers = $this->hasMany('Answer')->getResults();
+		$answers = $this->hasMany('Answer');
 		return $answers;
 	}
 
@@ -86,7 +86,7 @@ class User extends Eloquent {
 
 	public function checkins()
 	{
-		$checkins = $this->hasMany('CheckIn')->getResults();
+		$checkins = $this->hasMany('CheckIn');
 		return $checkins;
 	}
 
